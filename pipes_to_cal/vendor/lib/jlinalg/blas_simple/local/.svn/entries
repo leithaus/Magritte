@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/blas_simple/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+blas_simple-local.pom.md5
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+67c587956245c59f79dfddf50e1a766b
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+blas_simple-local.jar.md5
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+2cf3989b2f1593eb6649b6985018590d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+blas_simple-local.pom.sha1
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+3b4dbe5e8f2a6df6545a233012d34f42
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+blas_simple-local.jar.sha1
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+a7a3e2bb07906c245a9eff8a270027ad
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+blas_simple-local.pom
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+cb78370b3b587f28850c3746f8d826d0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+blas_simple-local.jar
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+a9ea63e57ab77efa0944639786a8d896
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+

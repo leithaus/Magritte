@@ -1,0 +1,67 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jgrapht/jgrapht-jdk1.5
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+maven-metadata.xml
+file
+
+
+
+
+2008-06-24T23:50:09.000000Z
+1b0c2d8db36e6933d3749c6d8a07a603
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-06-24T23:50:09.000000Z
+5e2b1824590369b72d4f13125a616545
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-06-24T23:50:09.000000Z
+bc019ecfa7090989f2787c8badd4d27f
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+

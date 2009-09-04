@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/mysql/mysql-connector-java-5.0.8-bin/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+mysql-connector-java-5.0.8-bin-local.jar.md5
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+1e168eb87f2349d2de280353470fa463
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+mysql-connector-java-5.0.8-bin-local.pom.sha1
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+76abbe3903e5087fcd8b7e68893b8aba
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+mysql-connector-java-5.0.8-bin-local.jar.sha1
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+b02f3a0f5866afecce4d9a0f55376929
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+mysql-connector-java-5.0.8-bin-local.pom
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+9572ec830e4522225d6ed6b329ffcde9
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+mysql-connector-java-5.0.8-bin-local.jar
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+fa52e6f2e3433c65a9dd14c565030569
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+mysql-connector-java-5.0.8-bin-local.pom.md5
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+d30ad2fb1eedec5b277db00380396083
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

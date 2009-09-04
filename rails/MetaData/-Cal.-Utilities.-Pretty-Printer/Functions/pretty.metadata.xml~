@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functionMetadata xmlns="http://www.businessobjects.com/cal/metadata"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.businessobjects.com/cal/metadata file:/Users/lgm/Desktop/sample.metadata.xsd" xsi:schemaLocation="">
+    <functionalAgentMetadata>
+        <scopedEntityMetadata>
+            <featureMetadata>
+                <resourceName xmlns="http://www.businessobjects.com/cal/workspace">
+                    <type><![CDATA[LocalizedResourceName]]></type>
+                    <featureName>
+                        <type><![CDATA[FUNCTION]]></type>
+                        <name><![CDATA[Cal.Utilities.PrettyPrinter.pretty]]></name>
+                    </featureName>
+                </resourceName>
+                <displayName/>
+                <version/>
+                <author><![CDATA[Business Objects]]></author>
+                <shortDescription>
+		<![CDATA[Generates a formatted string representation
+			 of a CAL entity]]>
+		</shortDescription>
+                <longDescription>
+		  <![CDATA[Generates a formatted string representation
+			   of a CAL entity]]>
+		</longDescription>
+                <modificationDate><![CDATA[2006-12-19T17:28:52]]></modificationDate>
+                <creationDate><![CDATA[2004-05-05T15:58:58]]></creationDate>
+                <expertFeature><![CDATA[false]]></expertFeature>
+                <hiddenFeature><![CDATA[false]]></hiddenFeature>
+                <preferredFeature><![CDATA[false]]></preferredFeature>
+                <attributes/>
+                <relatedFeatures/>
+            </featureMetadata>
+        </scopedEntityMetadata>
+        <categories/>
+        <arguments>
+            <argumentMetadata>
+                <featureMetadata>
+                    <resourceName xmlns="http://www.businessobjects.com/cal/workspace">
+                        <type><![CDATA[LocalizedResourceName]]></type>
+                        <featureName>
+                            <type><![CDATA[ARGUMENT]]></type>
+                            <name><![CDATA[0]]></name>
+                        </featureName>
+                    </resourceName>
+                    <displayName/>
+                    <version/>
+                    <author></author>
+                    <shortDescription><![CDATA[wish i knew]]></shortDescription>
+                    <longDescription></longDescription>
+                    <modificationDate><![CDATA[2006-12-19T17:28:52]]></modificationDate>
+                    <creationDate><![CDATA[2004-05-05T15:58:58]]></creationDate>
+                    <expertFeature><![CDATA[false]]></expertFeature>
+                    <hiddenFeature><![CDATA[false]]></hiddenFeature>
+                    <preferredFeature><![CDATA[false]]></preferredFeature>
+                    <attributes/>
+                    <relatedFeatures/>
+                </featureMetadata>
+                <defaultValuesOnly><![CDATA[false]]></defaultValuesOnly>
+                <defaultValuesExpression>
+                    <expression></expression>
+                </defaultValuesExpression>
+                <promptingTextExpression>
+                    <expression></expression>
+                </promptingTextExpression>
+            </argumentMetadata>
+	    <argumentMetadata>
+	      <featureMetadata>
+		<resourceName
+		    xmlns="http://www.businessobjects.com/cal/workspace">
+		  <type><![CDATA[LocalizedResourceName]]></type>
+		  <featureName>
+		    <type><![CDATA[ARGUMENT]]></type>
+		    <name><![CDATA[1]]></name>
+		  </featureName>
+		</resourceName>
+		<displayName/>
+		<version/>
+		<author/>
+		<shortDescription>
+		  <![CDATA[wish i knew]]>
+		</shortDescription>
+	      <longDescription/>
+	      <modificationDate><![CDATA[2006-12-19T17:28:52]]></modificationDate>
+	      <creationDate><![CDATA[2004-05-05T15:58:58]]></creationDate>
+	      <expertFeature><![CDATA[false]]></expertFeature>
+	      <hiddenFeature><![CDATA[false]]></hiddenFeature>
+	      <preferredFeature><![CDATA[false]]></preferredFeature>
+	      <attributes/>
+	      <relatedFeatures/>
+	    </featureMetadata>
+	    <defaultValuesOnly><![CDATA[false]]></defaultValuesOnly>
+	    <defaultValuesExpression><expression/></defaultValuesExpression>
+	    <promptingTextExpression><expression/></promptingTextExpression>
+	  </argumentMetadata>
+        </arguments>
+        <examples>
+            <example>
+                <description></description>
+                <evaluateExpression></evaluateExpression>
+                <expression></expression>
+            </example>
+        </examples>
+    </functionalAgentMetadata>
+    <returnValue/>
+</functionMetadata>

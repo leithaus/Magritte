@@ -1,0 +1,19 @@
+digraph G {
+  Cal_Utilities_Math_pi_sw_5104_1229472549102 [label = "Cal_Utilities_Math_pi_sw_5104_1229472549102"];
+  Cal_Utilities_Math_e_sw_5100_1229472549102 [label = "Cal_Utilities_Math_e_sw_5100_1229472549102"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472549102 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472549103"];
+  Cal_Core_Prelude_toInt_sw_5089_1229472549103 [label = "Cal_Core_Prelude_toInt_sw_5089_1229472549103"];
+  Cal_Core_Prelude_toInt_sw_5082_1229472549103 [label = "Cal_Core_Prelude_toInt_sw_5082_1229472549103"];
+  Cal_Utilities_Math_round_sw_5050_1229472549104 [label = "Cal_Utilities_Math_round_sw_5050_1229472549104"];
+  Cal_Utilities_Math_round_sw_5042_1229472549104 [label = "Cal_Utilities_Math_round_sw_5042_1229472549104"];
+  output__OUTPUT_1229472549104 [label = "output__OUTPUT_1229472549104"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104"];
+  Cal_Utilities_Math_pi_sw_5104_1229472549102 -> Cal_Utilities_Math_round_sw_5050_1229472549104 [label = "1"];
+  Cal_Utilities_Math_e_sw_5100_1229472549102 -> Cal_Utilities_Math_round_sw_5042_1229472549104 [label = "2"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472549102 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104 [label = "3"];
+  Cal_Core_Prelude_toInt_sw_5089_1229472549103 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104 [label = "4"];
+  Cal_Core_Prelude_toInt_sw_5082_1229472549103 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104 [label = "5"];
+  Cal_Utilities_Math_round_sw_5050_1229472549104 -> Cal_Core_Prelude_toInt_sw_5089_1229472549103 [label = "6"];
+  Cal_Utilities_Math_round_sw_5042_1229472549104 -> Cal_Core_Prelude_toInt_sw_5082_1229472549103 [label = "7"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472549104 -> output__OUTPUT_1229472549104 [label = "8"];
+}

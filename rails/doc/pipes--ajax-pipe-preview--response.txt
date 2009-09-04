@@ -1,0 +1,29 @@
+{"ok":1,
+ "errors":{
+	"modules":{},
+	"pipe":null
+ },
+ "preview":{
+	"sw-57":{
+		"count":"0",
+		"item_count":"0",
+		"id":"sw-57",
+		"duration":"8e-05",
+		"start":"1208669728",
+		"module":"Yahoo::RSS::Fetch",
+		"items":[]
+	 },
+	 "_OUTPUT":{
+		"count":"0",
+		"item_count":"0",
+		"id":"_OUTPUT",
+		"duration":"3.1e-05",
+		"start":"1208669728",
+		"module":"Yahoo::RSS::Output",
+		"items":[]
+	}
+ },
+ "stats":{
+	"pua":{}
+ }
+}

@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/lapack_simple/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+lapack_simple-local.pom.sha1
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+6c2314a385dcdfa13741271e2efecb2f
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack_simple-local.jar.sha1
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+f5c588a7fecad02310989e0444d73447
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack_simple-local.pom
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+13264016dd3f0c039ee1ce45aaf1f354
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack_simple-local.jar
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+d31d297b34db55a5303bb09344bf7fe8
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+lapack_simple-local.pom.md5
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+a561569f35edb55058970d9071dd422a
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack_simple-local.jar.md5
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+3c4e1c2b28ccf11c5876f97c841b95ed
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

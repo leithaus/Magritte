@@ -1,0 +1,82 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+CAL
+dir
+
+MetaData
+dir
+
+pipes_to_cal.iml
+file
+1475
+
+
+
+2008-07-25T18:54:13.000000Z
+b2d3ba2568009844024b0a073b1312d4
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+
+pom.xml.hide
+file
+
+
+
+
+2008-06-24T23:51:09.000000Z
+1cf136f7c8f460fe696436e7fb5bcd2a
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+Workspace Declarations
+dir
+
+src
+dir
+
+bin
+dir
+
+pom.xml
+file
+1810
+
+
+
+2008-12-18T15:35:35.000000Z
+c6af638143cd0416426b990c84a88e8d
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+vendor
+dir
+

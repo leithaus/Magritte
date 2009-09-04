@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/1563/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte
+END
+App.scala
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/App.scala
+END
+PipesToCALBridge.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/!svn/ver/1810/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/PipesToCALBridge.scala
+END
+JSONWrap.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/!svn/ver/1443/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/JSONWrap.scala
+END
+GraphToExpr.scala
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/!svn/ver/1577/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/GraphToExpr.scala
+END
+PipesExprToGraph.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/!svn/ver/1581/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/PipesExprToGraph.scala
+END
+WSDL2CALWSClient.scala
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/!svn/ver/1570/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/WSDL2CALWSClient.scala
+END
+escaped-examples.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/!svn/ver/1438/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/escaped-examples.json
+END
+JSON.scala
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/!svn/ver/1444/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/JSON.scala
+END
+ConcreteGraphTypes.scala
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/!svn/ver/1810/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/ConcreteGraphTypes.scala
+END
+Generators.scala
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/!svn/ver/1459/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/Generators.scala
+END
+GEMGraph.scala
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/!svn/ver/1810/open/pipe-cutter/pipes_to_cal/src/main/scala/com/biosimilarity/magritte/GEMGraph.scala
+END

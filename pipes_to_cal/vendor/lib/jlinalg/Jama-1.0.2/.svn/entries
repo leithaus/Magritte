@@ -1,0 +1,55 @@
+8
+
+dir
+1489
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/Jama-1.0.2
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+f6644eba85d6904f7090ebe169c3b4ac
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+57ce4faccfbd7323da44fceeaa33c83b
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+7ab4ef112e3e54c1bc782b5fad647ee1
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+

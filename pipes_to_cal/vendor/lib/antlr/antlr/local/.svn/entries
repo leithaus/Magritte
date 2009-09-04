@@ -1,0 +1,89 @@
+8
+
+dir
+1465
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/antlr/antlr/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+antlr-local.pom
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+336ccf6497313169da1299eed9e1600c
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+antlr-local.jar
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+97c6bb68108a3d68094eab0f67157962
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+has-props
+
+antlr-local.pom.md5
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+71cf4a00129b896d31f82d2748df5893
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+antlr-local.jar.md5
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+99b0c33c4a0e67db145f712c38ec44f8
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+antlr-local.pom.sha1
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+330276c403e0ca24e46db24e466d05c9
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+antlr-local.jar.sha1
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+a768eb7a004d39225184de6eb3138e96
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+

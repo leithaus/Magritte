@@ -1,0 +1,55 @@
+8
+
+dir
+1467
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/asm/asm-all-3.0
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+242dc8d439c2858dbadf15fdfc159bdc
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+d92b4aab5b9570278f7e2b150e6886fc
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+af6b7fed1dcfe17280610f3274bc6a51
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+

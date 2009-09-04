@@ -1,0 +1,89 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/Quark_Gems_src/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Quark_Gems_src-local.pom.sha1
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+987cb7dfa2ca9f9a535a6ee5599237a0
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+Quark_Gems_src-local.jar.sha1
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+0631ed2b194d93506e8582a363a82cbf
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+Quark_Gems_src-local.pom
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+d4acadcfdf624ade09d1c4e1bfaff8e1
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+Quark_Gems_src-local.jar
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+3edf82b459dc5bfd27dc6c8a29a5e58a
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+has-props
+
+Quark_Gems_src-local.pom.md5
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+97dc9a387123aa0091568a4ac4a97404
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+Quark_Gems_src-local.jar.md5
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+0ed494cbecf273a0ff47aeaf89efe6f4
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+

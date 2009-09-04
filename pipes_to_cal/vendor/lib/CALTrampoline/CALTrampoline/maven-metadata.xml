@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>CALTrampoline</groupId>
+  <artifactId>CALTrampoline</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+      <version>local2</version>
+      <version>local3</version>
+      <version>local4</version>
+      <version>local5</version>
+      <version>local6</version>
+    </versions>
+    <lastUpdated>20081218164655</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,89 @@
+8
+
+dir
+1453
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CAL/calLibraries/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+calLibraries-local.jar
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+cc0262ca06829332bdff093dc204d5e6
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+has-props
+
+calLibraries-local.pom.md5
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+917c228f4f48140f23d23b31c5d907a5
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calLibraries-local.jar.md5
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+ececddec33aad02297f1b5dfa8b5e30b
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calLibraries-local.pom.sha1
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+dff6969a935c709f256b743a436c6b40
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calLibraries-local.jar.sha1
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+4ccf7408358b2550c402b8744a8455b5
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calLibraries-local.pom
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+5b3c38c1c53d0154cf1e15890803e748
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+

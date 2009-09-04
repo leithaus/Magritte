@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/mysql/mysql-connector-java-5.0.8-bin
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+6d6f2a72aceb1ecb9f003ec4f61ddd05
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+f32f6210536f4470272a90fb2494361a
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T03:44:40.000000Z
+70a064eb9ed5b094ee863bf734830f2c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

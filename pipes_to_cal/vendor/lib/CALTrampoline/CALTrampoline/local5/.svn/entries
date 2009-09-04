@@ -1,0 +1,89 @@
+8
+
+dir
+1810
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CALTrampoline/CALTrampoline/local5
+http://svn.biosimilarity.com/src
+
+
+
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+CALTrampoline-local5.pom
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+ba332b032edf34882125561641142803
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+CALTrampoline-local5.jar
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+65b749e696d717edd590d6e9c269706f
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+has-props
+
+CALTrampoline-local5.pom.md5
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+0a7da685dbcd2d9bdaab08701373a871
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+CALTrampoline-local5.jar.md5
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+aa4e86435e8aa09933cd34ac54cfe97a
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+CALTrampoline-local5.pom.sha1
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+bc698b7aa1d9b2bf22c0a39d33580bfc
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+CALTrampoline-local5.jar.sha1
+file
+
+
+
+
+2008-12-18T15:35:27.000000Z
+d891623e39e8a189d8dd5360f402d8a0
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+

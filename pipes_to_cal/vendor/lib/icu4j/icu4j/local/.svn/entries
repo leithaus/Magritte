@@ -1,0 +1,89 @@
+8
+
+dir
+1470
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/icu4j/icu4j/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+icu4j-local.pom
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+dd3280b105da8af6c62619db1569de68
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+icu4j-local.jar
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+72197c03f5e9b7c1b7ab47bef07ebdd8
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+has-props
+
+icu4j-local.pom.md5
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+4a9167d2bd23977cf3a1b7aaff5a4b86
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+icu4j-local.jar.md5
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+640621b18f81069dfb1fded819037443
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+icu4j-local.pom.sha1
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+5933ae5d9bcb63cbd922184fb6f2ebd6
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+icu4j-local.jar.sha1
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+430961cbf5ef5c2e3a070a9d285e32e6
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+

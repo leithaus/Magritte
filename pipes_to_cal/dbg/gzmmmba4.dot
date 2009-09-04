@@ -1,0 +1,19 @@
+digraph G {
+  Cal_Utilities_Math_pi_sw_5104_1229472177361 [label = "Cal_Utilities_Math_pi_sw_5104_1229472177361"];
+  Cal_Utilities_Math_e_sw_5100_1229472177361 [label = "Cal_Utilities_Math_e_sw_5100_1229472177361"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472177361 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472177362"];
+  Cal_Core_Prelude_toInt_sw_5089_1229472177362 [label = "Cal_Core_Prelude_toInt_sw_5089_1229472177362"];
+  Cal_Core_Prelude_toInt_sw_5082_1229472177362 [label = "Cal_Core_Prelude_toInt_sw_5082_1229472177362"];
+  Cal_Utilities_Math_round_sw_5050_1229472177362 [label = "Cal_Utilities_Math_round_sw_5050_1229472177363"];
+  Cal_Utilities_Math_round_sw_5042_1229472177363 [label = "Cal_Utilities_Math_round_sw_5042_1229472177363"];
+  output__OUTPUT_1229472177363 [label = "output__OUTPUT_1229472177363"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363"];
+  Cal_Utilities_Math_pi_sw_5104_1229472177361 -> Cal_Utilities_Math_round_sw_5050_1229472177362 [label = "3"];
+  Cal_Utilities_Math_e_sw_5100_1229472177361 -> Cal_Utilities_Math_round_sw_5042_1229472177363 [label = "6"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_sw_5096_1229472177361 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363 [label = "9"];
+  Cal_Core_Prelude_toInt_sw_5089_1229472177362 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363 [label = "12"];
+  Cal_Core_Prelude_toInt_sw_5082_1229472177362 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363 [label = "15"];
+  Cal_Utilities_Math_round_sw_5050_1229472177362 -> Cal_Core_Prelude_toInt_sw_5089_1229472177362 [label = "18"];
+  Cal_Utilities_Math_round_sw_5042_1229472177363 -> Cal_Core_Prelude_toInt_sw_5082_1229472177362 [label = "21"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_sw_5007_1229472177363 -> output__OUTPUT_1229472177363 [label = "24"];
+}

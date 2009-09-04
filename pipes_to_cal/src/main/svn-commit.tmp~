@@ -1,0 +1,35 @@
+
+--This line, and those below, will be ignored--
+
+A    scala/org
+A    scala/org/incava
+A    scala/org/incava/util
+A    scala/org/incava/util/diff
+A    scala/org/incava/util/diff/Diff.java
+A    scala/org/incava/util/diff/FileDiff.java
+A    scala/org/incava/util/diff/Difference.java
+A    scala/org/xmlsoap
+A    scala/org/xmlsoap/schemas
+A    scala/org/xmlsoap/schemas/wsdl
+A    scala/org/xmlsoap/schemas/wsdl/TDefinitions.java
+A    scala/org/xmlsoap/schemas/wsdl/TFault.java
+A    scala/org/xmlsoap/schemas/wsdl/TExtensibleAttributesDocumented.java
+A    scala/org/xmlsoap/schemas/wsdl/TPort.java
+A    scala/org/xmlsoap/schemas/wsdl/TMessage.java
+A    scala/org/xmlsoap/schemas/wsdl/TPortType.java
+A    scala/org/xmlsoap/schemas/wsdl/TBindingOperationFault.java
+A    scala/org/xmlsoap/schemas/wsdl/TDocumented.java
+A    scala/org/xmlsoap/schemas/wsdl/TBindingOperation.java
+A    scala/org/xmlsoap/schemas/wsdl/TService.java
+A    scala/org/xmlsoap/schemas/wsdl/TParam.java
+A    scala/org/xmlsoap/schemas/wsdl/TOperation.java
+A    scala/org/xmlsoap/schemas/wsdl/package-info.java
+A    scala/org/xmlsoap/schemas/wsdl/TBindingOperationMessage.java
+A    scala/org/xmlsoap/schemas/wsdl/TTypes.java
+A    scala/org/xmlsoap/schemas/wsdl/TExtensibilityElement.java
+A    scala/org/xmlsoap/schemas/wsdl/TPart.java
+A    scala/org/xmlsoap/schemas/wsdl/TDocumentation.java
+A    scala/org/xmlsoap/schemas/wsdl/TImport.java
+A    scala/org/xmlsoap/schemas/wsdl/TExtensibleDocumented.java
+A    scala/org/xmlsoap/schemas/wsdl/TBinding.java
+A    scala/org/xmlsoap/schemas/wsdl/ObjectFactory.java

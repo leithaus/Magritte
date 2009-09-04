@@ -1,0 +1,43 @@
+8
+
+dir
+1468
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/CAL/Cal
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T11:11:11.598263Z
+1468
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Graphics
+dir
+
+IO
+dir
+
+Core
+dir
+
+Data
+dir
+
+WS
+dir
+
+Utilities
+dir
+
+Internal
+dir
+
+Experimental
+dir
+
+Collections
+dir
+

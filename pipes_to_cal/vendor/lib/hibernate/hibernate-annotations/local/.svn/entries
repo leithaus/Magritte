@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/hibernate/hibernate-annotations/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+hibernate-annotations-local.jar
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+f0f07e5fc98f50aba766591e3e546a2d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+hibernate-annotations-local.pom.md5
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+21c154e63c0a6938a498e8af0d33e6b6
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate-annotations-local.jar.md5
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+6c4b1f7dd45531c3d785f51c0f5c7f47
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate-annotations-local.pom.sha1
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+88db8c54595f58a3332b49344484b3b3
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate-annotations-local.jar.sha1
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+5a2e3d675b3654e4254afa8342107dd5
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate-annotations-local.pom
+file
+
+
+
+
+2008-08-04T03:24:19.000000Z
+6a94131139bd1dc240c4bef86bd1138f
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

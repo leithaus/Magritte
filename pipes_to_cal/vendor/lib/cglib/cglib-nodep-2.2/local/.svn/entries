@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/cglib/cglib-nodep-2.2/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+cglib-nodep-2.2-local.pom.sha1
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+0d1f8764aed34f55e7d2067f12000221
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+cglib-nodep-2.2-local.jar.sha1
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+146a736805d0a57789a2d674cd95e23d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+cglib-nodep-2.2-local.pom
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+7022550eb9ffd26a63250ecbff983839
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+cglib-nodep-2.2-local.jar
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+753f4e9036e1fc6c3e07d3ab97ee6722
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+cglib-nodep-2.2-local.pom.md5
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+3d8c41390be3ce367037ad6d27168810
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+cglib-nodep-2.2-local.jar.md5
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+55e376447a1e3f58931035c6f55d8b2c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

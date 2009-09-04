@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/cglib/cglib-docs-2.2
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T16:51:23.000000Z
+d6eefd0536acda86f52a77ad48e4f253
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T16:51:23.000000Z
+1cff2841ff732cd82f1c13f34bd7d6c3
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T16:51:23.000000Z
+0822741073c244356acc254e10a63752
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

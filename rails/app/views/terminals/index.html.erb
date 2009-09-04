@@ -1,0 +1,22 @@
+<h1>Listing terminals</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+  </tr>
+
+<% for terminal in @terminals %>
+  <tr>
+    <td><%=h terminal.name %></td>
+    <td><%=h terminal.type %></td>
+    <td><%= link_to 'Show', terminal %></td>
+    <td><%= link_to 'Edit', edit_terminal_path(terminal) %></td>
+    <td><%= link_to 'Destroy', terminal, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New terminal', new_terminal_path %>

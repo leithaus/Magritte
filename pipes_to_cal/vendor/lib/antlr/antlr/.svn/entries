@@ -1,0 +1,55 @@
+8
+
+dir
+1465
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/antlr/antlr
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+c0fb1fd70e86d699f8fa515ce816ed40
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+0d0e0195d24612dfe81975084d329fd4
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-21T23:41:11.000000Z
+4cea4e48e05059029c27c62d95319d3f
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+

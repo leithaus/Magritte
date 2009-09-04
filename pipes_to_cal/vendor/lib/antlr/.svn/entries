@@ -1,0 +1,19 @@
+8
+
+dir
+1465
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/antlr
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-21T23:43:47.564743Z
+1465
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+antlr
+dir
+

@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<script type='text/javascript' src='./javascripts/yahoo-dom-event.js'></script><script type='text/javascript' src='./javascripts/dragdrop-min.js'></script><script type='text/javascript' src='./javascripts/connection-min.js'></script><script type='text/javascript' src='./javascripts/animation-min.js'></script><script type='text/javascript' src='./javascripts/calendar-min.js'></script><script type='text/javascript' src='./javascripts/logger-min.js'></script><link rel="stylesheet" type="text/css" href="./stylesheets/reset-fonts-grids.css"/><link rel="stylesheet" type="text/css" href="./stylesheets/calendar.css"/><link rel="stylesheet" type="text/css" href="./stylesheets/logger.css"/><script>
+$namespace = YAHOO.namespace;
+$namespace("maxwell");
+maxwell = YAHOO.maxwell;
+$extend = YAHOO.extend;
+</script> <!--[if IE]><script type="text/javascript" src="./javascripts/excanvas.js"></script><![endif]-->
+<script type='text/javascript' src='./javascripts/maxwell_c.js?vcb=2.1'></script><link rel="stylesheet" type="text/css" href="./stylesheets/wiring.css?vcb=2.1"/><link rel="stylesheet" type="text/css" href="./stylesheets/library.css?vcb=2.1"/> 
+<!--[if IE]>
+<style>
+.searchbar .search {
+	margin-top:1px;
+}
+.yahoo-accordion-title-vert {
+	font-family: verdana;
+}
+.enhancedtarget {
+    padding-bottom:0px;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.menusmallbutton {
+	width:70px;
+}
+.menubigbutton {
+	width:50px;
+}
+.pipetab {
+	width:70px;
+	overflow:hidden;
+}
+</style>
+<![endif]-->
+
+<script>
+var idforce = window.location.hash.substring(1);
+if (idforce && idforce.length>0) {
+	window.location.href="/pipes/pipe.edit?_id="+idforce;
+}
+
+maxwell.ModuleLibrary.categories=["Gems", "Value Gems", "Code Gems", "Other"];
+
+
+if (maxwell.Util.ua.isIE) document.execCommand("BackgroundImageCache",false,true); //IE6 flicker bug fix
+
+var editor;
+var pipeseditor;
+var tabs;
+var toolbar;
+var crumb = 'wAq8/Vuahll';
+// profileurl is used in PipesEditorTabs
+var profileurl = 'http://pipes.yahoo.com/pipes/person.info?eyuid=USVd8yMyu2dF75a_xBavxeB4EQ--';
+var runurl = 'http://pipes.yahoo.com/pipes/pipe.run?_id=wp0Uv3sI3RGrOjbPTaoASA';
+var newurl = 'http://pipes.yahoo.com/pipes/pipe.edit';
+var is_new_editor = 0;
+
+function badbrowser(ev) {
+    var agree=confirm("Your browser is not supported by the Pipes' editor.\r\n\r\nWe recommend using Firefox, IE7 or Safari.\r\n\r\nPress 'OK' to load the editor anyway, or 'Cancel' to go back (recommended)");
+    if (agree) {
+        YAHOO.util.Event.on(window, "resize", resize);
+        YAHOO.util.Event.addListener(window,"keyup",quickkey);
+        YAHOO.util.Event.addListener(document,"keyup",quickkey);
+        init(ev);
+    } else {
+        if (is_new_editor) {
+        	window.location = "/pipes/";
+        } else {
+    	   window.location = "/pipes/pipe.info?_id=wp0Uv3sI3RGrOjbPTaoASA";
+        }
+    }
+}
+
+function init(ev) {
+
+	document.title = "Pipes: edit";
+	tabs = new maxwell.PipesEditorTabs();
+	toolbar = new maxwell.Toolbar();
+    var findrss =new maxwell.SearchDropDown();
+	tabs.node.appendChild(findrss.node);
+	
+  	$("header").appendChild(tabs.node);
+  	$("header").appendChild(toolbar.node);
+
+	YAHOO.util.Event.onAvailable($id(tabs.node), function() {
+		YAHOO.util.Event.onAvailable($id(toolbar.node), function() {
+			init2();
+		});
+	});
+}
+
+function init2() {
+	pipeseditor = new maxwell.PipesEditor(tabs,toolbar);
+   	resize();
+   	YAHOO.util.Event.addListener(pipeseditor.node,"keyup",quickkey);
+	YAHOO.util.Event.addListener(pipeseditor.editorsnode,"keyup",quickkey);
+	
+	pipeseditor.onneweditor.subscribe(function(type,args,me) {
+		var editor = args[0];
+		resize();
+	});
+	editor = pipeseditor.CreateEditor();
+	editor.load('wp0Uv3sI3RGrOjbPTaoASA');
+opendesc('wp0Uv3sI3RGrOjbPTaoASA');
+}
+
+function opendesc(id) {
+	ajaxCall("module/featured",{"id":id,"_out":"json"},
+		function(data) {
+			new maxwell.Dialog.Draggable({content:'About this Pipe',body:"<div class='module_featured'>"+data.description+"</div>",position:'nw'},editor.layout.node);
+ 		},
+ 		function(error) {
+ 			//no featured text or a system barf
+ 		}
+	);	
+	
+}
+
+function dump() {
+	var snapshot = { pipe:pipeseditor.CurrentEditor().pipe, data:pipeseditor.CurrentEditor().freeze()};
+	DumperPopup(snapshot);
+}
+
+function resize() {
+	var height =  YAHOO.util.Dom.getViewportHeight();
+	height -=$("header").offsetHeight;
+	if (!pipeseditor) return;
+	pipeseditor.node.style.height = height+"px";
+	pipeseditor.splitter.resizeAS();	
+	var editor = pipeseditor.CurrentEditor();
+	if (editor) editor.splitter.resizeAS();
+}
+
+function newpipe() {
+	editor = new maxwell.Editor();
+}
+
+function quickkey(ev) {
+	var target = YAHOO.util.Event.getTarget(ev);
+	if (target.tagName == "INPUT" || target.tagName=="TEXTAREA" || target.tagName =="SELECT") {
+		return;
+	}
+	if (ev.altKey || ev.ctrlKey || ev.shiftKey || ev.metaKey) return;
+	var dontStop = false;
+	switch (ev.keyCode) {
+		//case 84: break;
+		case 83: { pipeseditor.toolbar.save(); break; }
+		case 76: { pipeseditor.toolbar.layout(); break; }
+		case 69: { pipeseditor.toolbar.expand(); break; }
+		case 67: { pipeseditor.toolbar.collapse(); break; }
+		default: { dontStop = true; break }
+	}
+	if (!dontStop) {
+		YAHOO.util.Event.stopEvent(ev);
+	}
+}
+
+YAHOO.util.Event.on(window, "load", init);
+YAHOO.util.Event.on(window, "resize", resize);
+YAHOO.util.Event.addListener(window,"keyup",quickkey);
+YAHOO.util.Event.addListener(document,"keyup",quickkey);
+
+</script>
+</head>
+<body id="body" style="overflow:hidden" SCROLL="no">
+<div class='menubar' id="header"></div>
+</body>
+</html>
+
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=./javascripts/bc_2.0.4.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=wZKKG0S0wxvqtXeDR2OVN2y1R9kbC0gBM2AABYOs&T=13rmj8vsv%2fX%3d1208038240%2fE%3d2022283953%2fR%3dsite%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d2987403628%2fS%3d1%2fJ%3dF4C2B444');
+if(window.yzq_s)yzq_s();
+</script>
+<!-- m50.pipes.sp1.yahoo.com compressed/chunked Sat Apr 12 15:10:40 PDT 2008 -->

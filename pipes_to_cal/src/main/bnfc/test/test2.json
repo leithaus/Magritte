@@ -1,0 +1,1 @@
+{"modules":[{"type":"CalUtilitiesMathe","id":"sw-4676","conf":{}},{"type":"output","id":"_OUTPUT","conf":{}},{"type":"CalUtilitiesMathpower","id":"sw-4683","conf":{}},{"type":"CalUtilitiesMathpi","id":"sw-4695","conf":{}},{"type":"CalUtilitiesDecimaltoString","id":"sw-4699","conf":{}},{"type":"CalCoreStringreverse","id":"sw-4706","conf":{}}]}

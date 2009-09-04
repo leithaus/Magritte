@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities
+END
+XmlParserEngine.cal
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/XmlParserEngine.cal
+END
+Encoding.cal
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/Encoding.cal
+END
+CollectionUtilities.cal
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/CollectionUtilities.cal
+END
+XmlPrinters.cal
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/XmlPrinters.cal
+END
+XmlCharacterClasses.cal
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/XmlCharacterClasses.cal
+END
+XmlParser.cal
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/XmlParser.cal
+END
+XmlParserState.cal
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Utilities/XmlParserState.cal
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+1487
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Quant
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:26:21.213465Z
+1487
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+VAR.cal
+file
+1490
+
+
+
+2008-09-04T19:20:58.000000Z
+c80bb743131d4ead57f7f18639bd60a4
+2008-09-04T19:24:32.064561Z
+1490
+lgm
+
+Linear.cal
+file
+1491
+
+
+
+2008-09-04T19:17:07.000000Z
+f8c4cfe7f44ed00ede630ea5fb6d4147
+2008-09-04T19:25:18.583774Z
+1491
+lgm
+

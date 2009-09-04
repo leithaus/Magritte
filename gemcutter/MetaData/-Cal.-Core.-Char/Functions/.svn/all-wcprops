@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions
+END
+to-Lower-Case.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/to-Lower-Case.metadata.xml
+END
+is-Letter-Or-Digit.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Letter-Or-Digit.metadata.xml
+END
+to-Upper-Case.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/to-Upper-Case.metadata.xml
+END
+digit-To-Int.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/digit-To-Int.metadata.xml
+END
+int-To-Digit.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/int-To-Digit.metadata.xml
+END
+is-Letter.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Letter.metadata.xml
+END
+is-Digit.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Digit.metadata.xml
+END
+is-Lower-Case.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Lower-Case.metadata.xml
+END
+to-Int.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/to-Int.metadata.xml
+END
+from-Int.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/from-Int.metadata.xml
+END
+is-Upper-Case.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Upper-Case.metadata.xml
+END
+is-Space-Char.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1475/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Core.-Char/Functions/is-Space-Char.metadata.xml
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/blas_simple
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+a122e1a94ba8a30532d0d2ab215b1133
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+dad3babece0f602d00e397dd5649fd21
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-25T19:58:53.000000Z
+3799d564a258357ff38d8ad76cceff4c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

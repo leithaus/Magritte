@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data
+END
+SqlType.cal
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/SqlType.cal
+END
+GregorianBusinessCalendar.cal
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/GregorianBusinessCalendar.cal
+END
+BusinessCalendar.cal
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/BusinessCalendar.cal
+END
+DataGems.cal
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/DataGems.cal
+END
+DatabaseMetadata.cal
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/DatabaseMetadata.cal
+END
+SqlBuilder.cal
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/SqlBuilder.cal
+END
+FiscalBusinessCalendar.cal
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/FiscalBusinessCalendar.cal
+END
+DictionaryQuery.cal
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/DictionaryQuery.cal
+END
+SqlParser.cal
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/SqlParser.cal
+END
+DataDictionary.cal
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/DataDictionary.cal
+END
+Sql.cal
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/Sql.cal
+END
+SqlDataDictionary.cal
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Data/SqlDataDictionary.cal
+END

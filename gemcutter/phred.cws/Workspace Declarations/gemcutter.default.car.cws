@@ -1,0 +1,9 @@
+// gemcutter.default.car.cws
+// Created at August 4, 2008 12:41:59 PM PDT
+//
+// This workspace declaration file is automatically created by the
+// CAL Archive building tool. For further information about the format of this file,
+// please consult the CAL documentation.
+//
+
+import car StandardVault gemcutter.default.car main.carspec

@@ -1,0 +1,25 @@
+8
+
+dir
+1553
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jxpath
+http://svn.biosimilarity.com/src
+
+
+
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+commons-jxpath-1.3
+dir
+
+commons-jxpath-1.3-sources
+dir
+
+commons-jxpath-1.3-javadoc
+dir
+

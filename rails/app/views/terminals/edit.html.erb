@@ -1,0 +1,22 @@
+<h1>Editing terminal</h1>
+
+<%= error_messages_for :terminal %>
+
+<% form_for(@terminal) do |f| %>
+  <p>
+    <b>Name</b><br />
+    <%= f.text_field :name %>
+  </p>
+
+  <p>
+    <b>Type</b><br />
+    <%= f.text_field :type %>
+  </p>
+
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @terminal %> |
+<%= link_to 'Back', terminals_path %>

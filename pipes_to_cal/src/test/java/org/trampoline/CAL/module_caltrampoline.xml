@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="module_caltrampoline" default="compile.module.caltrampoline">
+  <dirname property="module.caltrampoline.basedir" file="${ant.file.module_caltrampoline}"/>
+  
+  <property name="module.jdk.home.caltrampoline" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.caltrampoline" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.caltrampoline" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.caltrampoline" value="${compiler.args}"/>
+  
+  <property name="caltrampoline.output.dir" value="${module.caltrampoline.basedir}/classes/production/CALTrampoline"/>
+  <property name="caltrampoline.testoutput.dir" value="${module.caltrampoline.basedir}/classes/test/CALTrampoline"/>
+  
+  <path id="caltrampoline.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="caltrampoline.module.classpath">
+    <path refid="${module.jdk.classpath.caltrampoline}"/>
+    <path refid="library.javaee.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.caltrampoline">
+    <patternset refid="ignored.files"/>
+    <exclude name="classes/**"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.caltrampoline">
+    <patternset refid="excluded.from.module.caltrampoline"/>
+  </patternset>
+  
+  <path id="caltrampoline.module.sourcepath">
+    <dirset dir="${module.caltrampoline.basedir}/../../trampoline">
+      <include name="CAL"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.caltrampoline" depends="compile.module.caltrampoline.production,compile.module.caltrampoline.tests" description="Compile module CALTrampoline"/>
+  
+  <target name="compile.module.caltrampoline.production" description="Compile module CALTrampoline; production classes">
+    <mkdir dir="${caltrampoline.output.dir}"/>
+    <javac2 destdir="${caltrampoline.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.caltrampoline}/javac">
+      <compilerarg line="${compiler.args.caltrampoline}"/>
+      <bootclasspath refid="caltrampoline.module.bootclasspath"/>
+      <classpath refid="caltrampoline.module.classpath"/>
+      <src refid="caltrampoline.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.caltrampoline"/>
+    </javac2>
+    
+    <copy todir="${caltrampoline.output.dir}/org/trampoline/CAL">
+      <fileset dir="${module.caltrampoline.basedir}">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.caltrampoline.tests" depends="compile.module.caltrampoline.production" description="compile module CALTrampoline; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.caltrampoline" description="cleanup module">
+    <delete dir="${caltrampoline.output.dir}"/>
+    <delete dir="${caltrampoline.testoutput.dir}"/>
+  </target>
+</project>

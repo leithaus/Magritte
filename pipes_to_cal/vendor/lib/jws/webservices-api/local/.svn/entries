@@ -1,0 +1,89 @@
+8
+
+dir
+1492
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jws/webservices-api/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+webservices-api-local.jar.md5
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+411bdfd61805fe6c8f35310d0b152b4e
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-api-local.pom.sha1
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+f971d530dc12703cf78131ad04688980
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-api-local.jar.sha1
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+df679997e50cd5a18c1800c87f5488b8
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-api-local.pom
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+4205068f9c8035f5cf97375b942dd910
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-api-local.jar
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+5561e629d7607f51969e8084c8c042c0
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+has-props
+
+webservices-api-local.pom.md5
+file
+
+
+
+
+2008-09-09T19:25:24.000000Z
+1f525c16627f58533beb798c81a8b944
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+

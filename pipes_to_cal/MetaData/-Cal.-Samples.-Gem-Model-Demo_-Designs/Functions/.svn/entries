@@ -1,0 +1,64 @@
+8
+
+dir
+1475
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/MetaData/-Cal.-Samples.-Gem-Model-Demo_-Designs/Functions
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+factorial.metadata.xml
+file
+
+
+
+
+2007-10-24T20:39:14.000000Z
+7ef569b7e91a597a7494f4714b23929f
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+
+filter-Positive-Outliers.metadata.xml
+file
+
+
+
+
+2007-10-24T20:39:14.000000Z
+86fe3e332578fe29b2f534e0fbfaab81
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+
+positive-Outlier-Detector.metadata.xml
+file
+
+
+
+
+2007-10-24T20:39:14.000000Z
+3b480f6ca851d715c48c052d0568041a
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+
+demo-Map.metadata.xml
+file
+
+
+
+
+2007-10-24T20:39:14.000000Z
+91c0e6cf5a83266926b620790f3d2b9b
+2008-07-25T22:24:29.173052Z
+1475
+lgm
+

@@ -1,0 +1,17 @@
+1. generate the following databases in mysql:
+
+  - pipes_development
+  - pipes_test
+  - pipes_production
+
+2. create db schema with
+  ../>  rake db:migrate
+
+3. import the database file in ../../sample-database/
+   into pipes_development
+
+4. run the server with
+    ../script/server
+
+5. launch your browser at:
+   http://localhost:3000/

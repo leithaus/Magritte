@@ -1,0 +1,58 @@
+8
+
+dir
+1582
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CALTrampoline/CALTrampoline
+http://svn.biosimilarity.com/src
+
+
+
+2008-12-09T19:57:25.704419Z
+1582
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+local5
+dir
+
+maven-metadata.xml
+file
+1810
+
+
+
+2008-12-18T16:46:55.000000Z
+e6b9fbcc5b364f8eabefba8aa6bba927
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+maven-metadata.xml.md5
+file
+1810
+
+
+
+2008-12-18T16:46:55.000000Z
+d3fa45e669602308868478de33174846
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+1810
+
+
+
+2008-12-18T16:46:55.000000Z
+362b83e11621e97ddf3b404ba23d5b0a
+2009-01-05T23:56:10.580061Z
+1810
+lgm
+

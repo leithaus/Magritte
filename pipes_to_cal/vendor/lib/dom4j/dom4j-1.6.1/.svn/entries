@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/dom4j/dom4j-1.6.1
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+3054dcc6044b96e85999d574376cf28a
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+a9964ec838bcad5ba0280bdb8fb0bca5
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+d05665ab23e779cd7109228e4211fac0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

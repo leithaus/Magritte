@@ -1,0 +1,22 @@
+<h1>Listing module_categories</h1>
+
+<table>
+  <tr>
+    <th>Pipe module</th>
+    <th>Category</th>
+  </tr>
+
+<% for module_category in @module_categories %>
+  <tr>
+    <td><%=h module_category.pipe_module_id %></td>
+    <td><%=h module_category.category_id %></td>
+    <td><%= link_to 'Show', module_category %></td>
+    <td><%= link_to 'Edit', edit_module_category_path(module_category) %></td>
+    <td><%= link_to 'Destroy', module_category, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New module_category', new_module_category_path %>

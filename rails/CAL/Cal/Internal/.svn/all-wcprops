@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal
+END
+Optimizer_Expression.cal
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer_Expression.cal
+END
+Optimizer.cal
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer.cal
+END
+Optimizer_State.cal
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer_State.cal
+END
+Optimizer_Traversers.cal
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer_Traversers.cal
+END
+Optimizer_Type.cal
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer_Type.cal
+END
+Optimizer_Transformations.cal
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Internal/Optimizer_Transformations.cal
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/hibernate/hibernate3
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+55b76126026cc9a91094d8786e08b281
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+8aeaefbcb77092aa6ee4a0f38ed4dcca
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+19bd4fd554919077fa3ca93949413cba
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

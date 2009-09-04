@@ -1,0 +1,19 @@
+8
+
+dir
+1467
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/asm
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+asm-all-3.0
+dir
+

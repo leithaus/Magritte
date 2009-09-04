@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell
+END
+Printjson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Printjson.hs
+END
+Skeljson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Skeljson.hs
+END
+Testjson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Testjson.hs
+END
+Parjson.y
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Parjson.y
+END
+Parjson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Parjson.hs
+END
+Absjson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Absjson.hs
+END
+Lexjson.x
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Lexjson.x
+END
+Lexjson.hs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Lexjson.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/Makefile
+END
+ErrM.hs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/src/!svn/ver/1433/open/pipe-cutter/pipes_to_cal/src/main/haskell/ErrM.hs
+END

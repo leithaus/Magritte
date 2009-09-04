@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/hibernate/hibernate3/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+hibernate3-local.pom.sha1
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+a2efea2af218605ee6fd521c67f2d9db
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate3-local.jar.sha1
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+b85638865f8ac0b30c1c3f138d8871bb
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate3-local.pom
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+1a3132c66db3a22e7298a745bc7dc72c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate3-local.jar
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+5fc853b674c28384719ad7f846ea4dce
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+hibernate3-local.pom.md5
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+41601150826303a80df8723d9a6a3a3c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+hibernate3-local.jar.md5
+file
+
+
+
+
+2008-08-04T03:23:09.000000Z
+3456d85579057e79da87b0462189d206
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

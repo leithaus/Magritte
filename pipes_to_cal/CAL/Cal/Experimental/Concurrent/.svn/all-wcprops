@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Concurrent
+END
+Parallel.cal
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Concurrent/Parallel.cal
+END
+BlockingQueue.cal
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Experimental/Concurrent/BlockingQueue.cal
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities
+END
+Accumulate.cal
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Accumulate.cal
+END
+StringProperties.cal
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/StringProperties.cal
+END
+Format.cal
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Format.cal
+END
+Math.cal
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Math.cal
+END
+RelativeTime.cal
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/RelativeTime.cal
+END
+TimeZone.cal
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/TimeZone.cal
+END
+PrettyPrinter.cal
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/PrettyPrinter.cal
+END
+Range.cal
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Range.cal
+END
+Parser.cal
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Parser.cal
+END
+MessageFormat.cal
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/MessageFormat.cal
+END
+Summary.cal
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Summary.cal
+END
+Decimal.cal
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Decimal.cal
+END
+Time.cal
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Time.cal
+END
+StringNoCase.cal
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/StringNoCase.cal
+END
+Locale.cal
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Locale.cal
+END
+ExpressionLexer.cal
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/ExpressionLexer.cal
+END
+DirectedGraph.cal
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/DirectedGraph.cal
+END
+XmlBuilder.cal
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/XmlBuilder.cal
+END
+UniqueIdentifier.cal
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/UniqueIdentifier.cal
+END
+QuickCheck.cal
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/QuickCheck.cal
+END
+ValueType.cal
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/ValueType.cal
+END
+Random.cal
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/src/!svn/ver/1468/open/pipe-cutter/pipes_to_cal/CAL/Cal/Utilities/Random.cal
+END

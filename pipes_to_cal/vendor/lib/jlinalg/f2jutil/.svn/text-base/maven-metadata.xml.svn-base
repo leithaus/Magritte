@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>jlinalg</groupId>
+  <artifactId>f2jutil</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+    </versions>
+    <lastUpdated>20080825195854</lastUpdated>
+  </versioning>
+</metadata>

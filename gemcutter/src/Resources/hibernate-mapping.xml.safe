@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+  <class name="org.openquark.gems.client.rails.RailsCategoriesEntity" table="categories" catalog="pipes_development">
+    <id name="id">
+      <column name="id" sql-type="int" length="10" precision="0" not-null="true"/>
+      <generator class="native"/>
+    </id>
+    <property name="name">
+      <column name="name" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="source_text">
+      <column name="source_text" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="createdAt">
+      <column name="created_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+    <property name="updatedAt">
+      <column name="updated_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+<!--    <set name="modules" inverse="true">
+      <key>
+        <column name="id" not-null="true"/>
+      </key>
+      <one-to-many not-found="ignore" class="org.openquark.gems.client.rails.RailsPipeModulesEntity"/>
+    </set>-->
+  </class>
+  <class name="org.openquark.gems.client.rails.RailsPipeModulesEntity" table="pipe_modules" catalog="pipes_development">
+    <id name="id">
+      <column name="id" sql-type="int" length="10" precision="0" not-null="true"/>
+      <generator class="native"/>
+    </id>
+    <property name="name">
+      <column name="name" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="type">
+      <column name="type" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="description">
+      <column name="description" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="ui">
+      <column name="ui" sql-type="text" length="65535" precision="0" not-null="false"/>
+    </property>
+    <property name="createdAt">
+      <column name="created_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+    <property name="updatedAt">
+      <column name="updated_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+    <property name="help">
+      <column name="help" sql-type="text" length="65535" precision="0" not-null="false"/>
+    </property>
+    <set name="in_terminals" table="input_terminals" catalog="pipes_development">
+      <key>
+        <column name="pipe_module_id" not-null="true"/>
+      </key>
+      <many-to-many not-found="ignore" class="org.openquark.gems.client.rails.RailsTerminalsEntity">
+        <column name="terminal_id" not-null="true"/>
+      </many-to-many>
+    </set>
+    <set name="out_terminals" table="output_terminals" catalog="pipes_development">
+      <key>
+        <column name="pipe_module_id" not-null="true"/>
+      </key>
+      <many-to-many not-found="ignore" class="org.openquark.gems.client.rails.RailsTerminalsEntity">
+        <column name="terminal_id" not-null="true"/>
+      </many-to-many>
+    </set>
+    <join table="module_categories" optional="true">
+      <key column="pipe_module_id" unique="true"/>
+      <many-to-one name="category" column="category_id" class="org.openquark.gems.client.rails.RailsCategoriesEntity"/>
+    </join>
+  </class>
+  <class name="org.openquark.gems.client.rails.RailsTerminalsEntity" table="terminals" catalog="pipes_development">
+    <id name="id">
+      <column name="id" sql-type="int" length="10" precision="0" not-null="true"/>
+      <generator class="native"/>
+    </id>
+    <property name="name">
+      <column name="name" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="type">
+      <column name="type" sql-type="varchar" length="255" precision="0" not-null="false"/>
+    </property>
+    <property name="createdAt">
+      <column name="created_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+    <property name="updatedAt">
+      <column name="updated_at" sql-type="datetime" length="0" precision="0" not-null="false"/>
+    </property>
+    <set name="in_modules" inverse="true" table="input_terminals" catalog="pipes_development">
+      <key>
+        <column name="terminal_id" not-null="true"/>
+      </key>
+      <many-to-many not-found="ignore" class="org.openquark.gems.client.rails.RailsPipeModulesEntity">
+        <column name="pipe_module_id" not-null="true"/>
+      </many-to-many>
+    </set>
+    <set name="out_modules" inverse="true" table="output_terminals" catalog="pipes_development">
+      <key>
+        <column name="terminal_id" not-null="true"/>
+      </key>
+      <many-to-many not-found="ignore" class="org.openquark.gems.client.rails.RailsPipeModulesEntity">
+        <column name="pipe_module_id" not-null="true"/>
+      </many-to-many>
+    </set>
+  </class>
+</hibernate-mapping>

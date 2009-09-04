@@ -1,0 +1,55 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/IO_Source_Generator_src
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+169ddbe27400a64a3e3bc5c198760706
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+4715ac354c131e4489d9366a151a3ac5
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+f1d407325914c37f0370153916b13d04
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+

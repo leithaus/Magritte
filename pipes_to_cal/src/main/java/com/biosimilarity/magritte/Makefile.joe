@@ -1,0 +1,61 @@
+DEVTOOLS = /Users/lgm/work/src/devtools
+JAVAC = javac
+JAVAC_FLAGS = -sourcepath . -cp $(DEVTOOLS)/java-cup-11a-runtime.jar:$(DEVTOOLS)/java-cup-11a.jar:$(DEVTOOLS)/JLex.jar:$(DEVTOOLS)/JFlex/lib:$(DEVTOOLS)/jaxb/lib
+
+JAVA = java
+JAVA_FLAGS = -cp $(DEVTOOLS)/java-cup-11a-runtime.jar:$(DEVTOOLS)/java-cup-11a.jar:$(DEVTOOLS)/JLex.jar:$(DEVTOOLS)/JFlex/lib:$(DEVTOOLS)/jaxb/lib
+
+CUP = java_cup.Main
+CUPFLAGS = -nopositions -expect 100
+
+JLEX = JLex.Main
+
+LATEX = latex
+DVIPS = dvips
+
+all: test json.ps
+
+test: absyn json/Yylex.class json/PrettyPrinter.class json/Test.class json/ComposVisitor.class json/AbstractVisitor.class json/FoldVisitor.class json/AllVisitor.class json/parser.class json/sym.class json/Test.class
+
+.PHONY: absyn
+
+%.class: %.java
+	${JAVAC} ${JAVAC_FLAGS} $^
+
+absyn: json/Absyn/JSONObject.java json/Absyn/JObject.java json/Absyn/JSONPair.java json/Absyn/JPair.java json/Absyn/JSONArray.java json/Absyn/JArray.java json/Absyn/JSONValue.java json/Absyn/JStr.java json/Absyn/JNum.java json/Absyn/JObj.java json/Absyn/JArr.java json/Absyn/JTru.java json/Absyn/JFal.java json/Absyn/JNul.java json/Absyn/ListJSONPair.java json/Absyn/ListJSONValue.java
+	${JAVAC} ${JAVAC_FLAGS} $^
+
+json/Yylex.java: json/Yylex
+	${JAVA} ${JAVA_FLAGS} ${JLEX} json/Yylex
+
+json/sym.java json/parser.java: json/json.cup
+	${JAVA} ${JAVA_FLAGS} ${CUP} ${CUPFLAGS} json/json.cup
+	mv sym.java parser.java json/
+
+json/Yylex.class: json/Yylex.java json/sym.java
+
+json/sym.class: json/sym.java
+
+json/parser.class: json/parser.java json/sym.java
+
+json/PrettyPrinter.class: json/PrettyPrinter.java
+
+json.dvi: json.tex
+	${LATEX} json.tex
+
+json.ps: json.dvi
+	${DVIPS} json.dvi -o json.ps
+
+clean:
+	 rm -f json/Absyn/*.class json/*.class
+	 rm -f .dvi json.aux json.log json.ps  *.class
+
+vclean:
+	 rm -f json/Absyn/JSONObject.java json/Absyn/JObject.java json/Absyn/JSONPair.java json/Absyn/JPair.java json/Absyn/JSONArray.java json/Absyn/JArray.java json/Absyn/JSONValue.java json/Absyn/JStr.java json/Absyn/JNum.java json/Absyn/JObj.java json/Absyn/JArr.java json/Absyn/JTru.java json/Absyn/JFal.java json/Absyn/JNul.java json/Absyn/ListJSONPair.java json/Absyn/ListJSONValue.java json/Absyn/JSONObject.class json/Absyn/JObject.class json/Absyn/JSONPair.class json/Absyn/JPair.class json/Absyn/JSONArray.class json/Absyn/JArray.class json/Absyn/JSONValue.class json/Absyn/JStr.class json/Absyn/JNum.class json/Absyn/JObj.class json/Absyn/JArr.class json/Absyn/JTru.class json/Absyn/JFal.class json/Absyn/JNul.class json/Absyn/ListJSONPair.class json/Absyn/ListJSONValue.class
+	 rm -f json/Absyn/*.class
+	 rmdir json/Absyn/
+	 rm -f json.tex json.dvi json.aux json.log json.ps 
+	 rm -f json/Yylex json/json.cup json/Yylex.java json/VisitSkel.java json/ComposVisitor.java json/AbstractVisitor.java json/FoldVisitor.java json/AllVisitor.java json/PrettyPrinter.java json/Skeleton.java json/Test.java json/sym.java json/parser.java json/*.class
+	 rm -f Makefile
+	 rmdir -p json/
+

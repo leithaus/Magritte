@@ -1,0 +1,89 @@
+8
+
+dir
+1492
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jws/webservices-rt/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+webservices-rt-local.pom.sha1
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+cf2b8f0f9efef0dc57e45d85f9062a38
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-rt-local.jar.sha1
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+08200fbae34dadf4969a33abaaf07118
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-rt-local.pom
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+e714210549125c6850c6149dfa56d53d
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-rt-local.jar
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+299e4e95768a319b98afd3a60bd93a3a
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+has-props
+
+webservices-rt-local.pom.md5
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+0d4fe51bce4900dd8fd97b2b2cd6e329
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+webservices-rt-local.jar.md5
+file
+
+
+
+
+2008-09-09T19:25:31.000000Z
+9eca7dc390aba0fa3a0bb51b14fa5aa3
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+

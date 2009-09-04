@@ -1,0 +1,34 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/commons-logging
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+commons-logging-tests
+dir
+
+commons-logging-1.1.1-javadoc
+dir
+
+commons-logging-api-1.1.1
+dir
+
+commons-logging-1.1.1
+dir
+
+commons-logging-1.1.1-sources
+dir
+
+commons-logging-adapters-1.1.1
+dir
+

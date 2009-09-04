@@ -1,0 +1,89 @@
+8
+
+dir
+1489
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/CoreJama-1.0.2/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+CoreJama-1.0.2-local.pom
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+0406342ba5cf5a1d08e18ffea83a0cd1
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+CoreJama-1.0.2-local.jar
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+83ff165148c06d6ca46da7b7a87db59f
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+has-props
+
+CoreJama-1.0.2-local.pom.md5
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+52acb71dc62e442893b53b60a2b00401
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+CoreJama-1.0.2-local.jar.md5
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+8a6e47904d30c322159bba581fd255ae
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+CoreJama-1.0.2-local.pom.sha1
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+6f32c711bca54ee09683dfedfa4212ed
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+CoreJama-1.0.2-local.jar.sha1
+file
+
+
+
+
+2008-09-03T18:42:09.000000Z
+fe1b2c3d4ebf97fa9b36164bb3bb7617
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+

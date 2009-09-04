@@ -1,0 +1,52 @@
+8
+
+dir
+1564
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/src/main/scala/org/incava/util/diff
+http://svn.biosimilarity.com/src
+
+
+
+2008-10-27T22:28:31.793704Z
+1564
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Diff.java
+file
+
+
+
+
+2008-10-27T22:20:14.000000Z
+4efb6379c3e4f3cd6c5b4de1d5df1d89
+2008-10-27T22:28:31.793704Z
+1564
+lgm
+
+FileDiff.java
+file
+
+
+
+
+2008-10-27T22:20:14.000000Z
+47b68a6a3a603b6332d3019ef4e145ce
+2008-10-27T22:28:31.793704Z
+1564
+lgm
+
+Difference.java
+file
+
+
+
+
+2008-10-27T22:20:14.000000Z
+2355a82116e8dccae9b949ca60fc3c51
+2008-10-27T22:28:31.793704Z
+1564
+lgm
+

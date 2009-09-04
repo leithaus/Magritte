@@ -1,0 +1,21 @@
+<h1>New module_category</h1>
+
+<%= error_messages_for :module_category %>
+
+<% form_for(@module_category) do |f| %>
+  <p>
+    <b>Pipe module</b><br />
+    <%= f.text_field :pipe_module_id %>
+  </p>
+
+  <p>
+    <b>Category</b><br />
+    <%= f.text_field :category_id %>
+  </p>
+
+  <p>
+    <%= f.submit "Create" %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', module_categories_path %>

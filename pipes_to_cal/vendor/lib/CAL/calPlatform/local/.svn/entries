@@ -1,0 +1,89 @@
+8
+
+dir
+1453
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CAL/calPlatform/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+calPlatform-local.pom.sha1
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+f9b5a933b22ab9d4f0069925b54b81c7
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calPlatform-local.jar.sha1
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+8e74bca653d59a5ee4fc43f8fd67b646
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calPlatform-local.pom
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+1e0ee964d10a49206fcbf48f6a9cefbb
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calPlatform-local.jar
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+3e8e67d717555d5caca2282819596197
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+has-props
+
+calPlatform-local.pom.md5
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+89ecb5b2740bf556c6b7212cf753b712
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calPlatform-local.jar.md5
+file
+
+
+
+
+2008-07-08T21:37:31.000000Z
+8c3ff5e03bd5e9dfc57f3a8d66b638bb
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+

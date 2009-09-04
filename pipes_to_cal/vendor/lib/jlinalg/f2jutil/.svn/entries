@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/f2jutil
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+d704657f4acb94938fdc4a1e4a469feb
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+a962501c63e45fd9b477a551cc300834
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+29e11ca4354f1d00989a83c72da53af0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

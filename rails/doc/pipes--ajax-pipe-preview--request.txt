@@ -1,0 +1,39 @@
+
+.crumb	wAq8/Vuahll
+
+_out	json
+
+rnd	4545
+
+def
+{
+ "modules":
+   [{
+	"type":"fetch",
+	"id":"sw-57",
+	"conf":{
+		"URL":{
+			"value":"",
+			"type":"url"
+		}
+	}
+   },{
+	"type":"output",
+	"id":"_OUTPUT",
+	"conf":{}
+  }],
+ "wires":
+   [{
+	"id":"_w1",
+	"src":{
+		"id":"_OUTPUT",
+		"moduleid":"sw-57"
+	},
+	"tgt":{
+		"id":"_INPUT",
+		"moduleid":"_OUTPUT"
+	}
+   }]
+}
+
+

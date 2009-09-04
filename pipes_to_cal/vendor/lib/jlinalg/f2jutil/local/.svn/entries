@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/f2jutil/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+f2jutil-local.pom
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+68023ddd3d679fe1da9e1d672f26e774
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+f2jutil-local.jar
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+6f27f3bb6070c9c720fc6c8e89ef858a
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+f2jutil-local.pom.md5
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+117316f0b115ce3e91ebf773f6e133e8
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+f2jutil-local.jar.md5
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+4d12ba2489da0bd794494a5268a69236
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+f2jutil-local.pom.sha1
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+66609dc8626cb656c2352fb7a59772ee
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+f2jutil-local.jar.sha1
+file
+
+
+
+
+2008-08-25T19:58:54.000000Z
+f901ac5fe0b31c76318fcd463a0df146
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

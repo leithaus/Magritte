@@ -1,0 +1,35 @@
+
+module:
+  has_many :terminals
+
+  ui:  "...renedered html of stuff..., with magic"
+  name: "...name of module, as it appears in the list..."
+  type: "datebuilder"  (not sure what this is)
+
+  description: "tooltip of stuff"
+  tags: "system:__category_name__"
+
+terminal:
+  name: _OUTPUT, _INPUT are magic values
+  output:   (type of output, for an output terminal only)
+  input:    (type of input, for an input terminal only)
+
+
+note: output is a magic type
+
+
+
+---------
+action lists:
+
+ajax.pipe.load
+ajax.pipe.preview
+
+ajax.module.featured
+ajax.module.list
+ajax.module.help
+ajax.module.info
+
+
+---------
+

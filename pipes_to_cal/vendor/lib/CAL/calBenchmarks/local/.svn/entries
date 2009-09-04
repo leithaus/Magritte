@@ -1,0 +1,89 @@
+8
+
+dir
+1453
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CAL/calBenchmarks/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+calBenchmarks-local.pom
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+88f9359770afdf37d623d23071014095
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calBenchmarks-local.jar
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+1446fa64a7ec8e8eafd15cf5565a0e77
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+has-props
+
+calBenchmarks-local.pom.md5
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+3c58305f1c29da3896dbb845afa696ad
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calBenchmarks-local.jar.md5
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+11b494d34f734503dc7632cbbfaa277a
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calBenchmarks-local.pom.sha1
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+03a8e899ca3d46aac629ab0e25331606
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+calBenchmarks-local.jar.sha1
+file
+
+
+
+
+2008-07-08T21:37:28.000000Z
+16512637d1f8cd67d34961e071beced4
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+

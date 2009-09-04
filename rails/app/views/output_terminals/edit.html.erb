@@ -1,0 +1,22 @@
+<h1>Editing output_terminal</h1>
+
+<%= error_messages_for :output_terminal %>
+
+<% form_for(@output_terminal) do |f| %>
+  <p>
+    <b>Pipe module</b><br />
+    <%= f.text_field :pipe_module_id %>
+  </p>
+
+  <p>
+    <b>Terminal</b><br />
+    <%= f.text_field :terminal_id %>
+  </p>
+
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @output_terminal %> |
+<%= link_to 'Back', output_terminals_path %>

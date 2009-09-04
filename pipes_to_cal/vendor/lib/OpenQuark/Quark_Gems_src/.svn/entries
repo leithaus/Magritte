@@ -1,0 +1,55 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/Quark_Gems_src
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+845405391dc65b5aeded15ff441ea319
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+7c8a491635425d81f6765c10900e9fa3
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-25T19:12:36.000000Z
+706c5d868384ca54ea31eb653b653f44
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+

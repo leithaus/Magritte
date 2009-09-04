@@ -1,0 +1,67 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/java3d/vecmath
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+1.5.1
+dir
+
+maven-metadata.xml
+file
+
+
+
+
+2008-06-24T23:50:57.000000Z
+ca88d2fae7856fa8f4b5966ca49b33de
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-06-24T23:50:57.000000Z
+b6cb1c51aa7a57995adc31d1576b0c67
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-06-24T23:50:57.000000Z
+4a75ef94e9fd237a9605a88892562ffc
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+

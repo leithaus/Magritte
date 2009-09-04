@@ -1,0 +1,55 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/CAL_Libraries_src
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-25T19:12:30.000000Z
+9012fda54c91107d58f3f2638dc988bc
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-25T19:12:30.000000Z
+0decf8734013c12d5b02920cf5295f7a
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-25T19:12:30.000000Z
+58f97aacfc8714339b725edb86364982
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+

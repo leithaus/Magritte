@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl
+END
+TFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TFault.java
+END
+TDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TDefinitions.java
+END
+TExtensibleAttributesDocumented.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TExtensibleAttributesDocumented.java
+END
+TMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TMessage.java
+END
+TPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TPort.java
+END
+TPortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TPortType.java
+END
+TDocumented.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TDocumented.java
+END
+TBindingOperationFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TBindingOperationFault.java
+END
+TBindingOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TBindingOperation.java
+END
+TOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TOperation.java
+END
+TBindingOperationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TBindingOperationMessage.java
+END
+TParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TParam.java
+END
+TService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/package-info.java
+END
+TTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TTypes.java
+END
+TExtensibilityElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TExtensibilityElement.java
+END
+TPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TPart.java
+END
+TDocumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TDocumentation.java
+END
+TImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TImport.java
+END
+TExtensibleDocumented.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TExtensibleDocumented.java
+END
+TBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/TBinding.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/!svn/ver/1564/open/pipe-cutter/pipes_to_cal/src/main/scala/org/xmlsoap/schemas/wsdl/ObjectFactory.java
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/xerbla
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+3e8a217eb50b9a8e616a0de701537301
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+b8c466c808317d1f6edb09ed496d3441
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+68616fabe9b4565e97edcbba8e4c19bf
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

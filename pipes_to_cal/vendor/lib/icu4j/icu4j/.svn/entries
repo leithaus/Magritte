@@ -1,0 +1,55 @@
+8
+
+dir
+1470
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/icu4j/icu4j
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+6a8bee0c270088217a2ce562f078ff09
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+8ba3cc2f5c2ff9bdc8e43b0a4cf6ed40
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-25T20:12:43.000000Z
+232e2d59ee4d503f145716a793736969
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+

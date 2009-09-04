@@ -1,0 +1,15 @@
+
+--This line, and those below, will be ignored--
+
+A    lib/CALTrampoline
+A    lib/CALTrampoline/CALTrampoline
+A    lib/CALTrampoline/CALTrampoline/maven-metadata.xml
+A    lib/CALTrampoline/CALTrampoline/maven-metadata.xml.md5
+A    lib/CALTrampoline/CALTrampoline/local
+A    lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.pom.md5
+A    lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.jar.md5
+A    lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.pom.sha1
+A    lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.jar.sha1
+A    lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.pom
+AM   lib/CALTrampoline/CALTrampoline/local/CALTrampoline-local.jar
+A    lib/CALTrampoline/CALTrampoline/maven-metadata.xml.sha1

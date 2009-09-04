@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/cglib/cglib-nodep-2.2
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+a44d01a1b6767a139c8e14c738af7983
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+0d0d6c9436a6f89583a6e926f5d2b9d9
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T16:51:06.000000Z
+946b637d541a81dbfd92e57c43e211cd
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

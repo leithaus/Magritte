@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/commons-logging/commons-logging-1.1.1
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-04T16:42:18.000000Z
+d80e13b45dff434f657d714237d6f1ee
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-04T16:42:18.000000Z
+b4eb718a818c220aab00148c75e61deb
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-04T16:42:18.000000Z
+f495f6d8fed118b6a3a40d1be7646e91
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

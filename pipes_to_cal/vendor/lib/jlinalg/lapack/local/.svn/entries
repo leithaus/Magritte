@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/lapack/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+lapack-local.pom.md5
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+933351f44d720a6cdbe7604091b0ebe0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack-local.jar.md5
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+4d76f5d65f7e356d693dc1d1ac4a8edf
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack-local.pom.sha1
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+6442a0cdceae5e94eb8e4fd71662879d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack-local.jar.sha1
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+dad448d72900497a930137cc3255cfa0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack-local.pom
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+d1711e8f3bdbe58080c40f0f1473101e
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+lapack-local.jar
+file
+
+
+
+
+2008-08-25T19:58:56.000000Z
+f13af67063b1596a676bc3fda2ed798c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+

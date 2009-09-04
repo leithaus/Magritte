@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>jws</groupId>
+  <artifactId>webservices-api</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+    </versions>
+    <lastUpdated>20080909192524</lastUpdated>
+  </versioning>
+</metadata>

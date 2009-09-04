@@ -1,0 +1,38 @@
+package foo;
+
+import java.io.*;
+import java.net.URL;
+
+public class ResourceTest {
+
+public ResourceTest() {
+System.out.println("Testing relative path..."");
+
+URL relativeResourceURL =
+getClass.getResource("resources/some_resource");
+displayResource(relativeResourceURL);
+System.out.println("Testing absolute path...");
+URL absoluteResourceURL =
+getClass.getResource("/foo/resources/some_resource");
+displayResource(absoluteResourceURL);
+
+System.out.println("Resource access test complete");
+}
+
+private void displayResource(URL url) {
+try {
+InputStream is = url.openStream();
+BufferedReader br = new BufferedReader(new InputStreamReader(is));
+String nextLine = null;
+while((nextLine = br.readLine()) != null) {
+System.out.println(nextLine);
+}
+} catch (IOException ioe) {
+ioe.printStackTrace();
+}
+}
+
+public static void main(String[] args) throws IOException {
+new ResourceTest();
+}
+}

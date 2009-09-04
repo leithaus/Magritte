@@ -1,0 +1,89 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/CAL_Runtime_src/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+CAL_Runtime_src-local.pom.md5
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+d9d2983bb081f573e42b7f6e9fd5cbcb
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+CAL_Runtime_src-local.jar.md5
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+9fd52fe0180f104a57bcffd9df94d3e0
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+CAL_Runtime_src-local.pom.sha1
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+0188bd4f3b8550855ddc6fbc507f49b0
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+CAL_Runtime_src-local.jar.sha1
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+5584e915afffefb4e6699bfe59813e73
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+CAL_Runtime_src-local.pom
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+5806f7f259ee4343b0a7fb09b9e87844
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+CAL_Runtime_src-local.jar
+file
+
+
+
+
+2008-07-25T19:12:33.000000Z
+aeb4f55aefd4d67ca9e38ae5043385dd
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+has-props
+

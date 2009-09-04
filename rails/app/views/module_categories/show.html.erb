@@ -1,0 +1,13 @@
+<p>
+  <b>Pipe module:</b>
+  <%=h @module_category.pipe_module_id %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%=h @module_category.category_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_module_category_path(@module_category) %> |
+<%= link_to 'Back', module_categories_path %>

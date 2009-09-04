@@ -1,0 +1,89 @@
+8
+
+dir
+1812
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlex/JLex-local/local
+http://svn.biosimilarity.com/src
+
+
+
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+JLex-local-local.pom.md5
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+78070a21286ecf757c756e7d4b8a3432
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+JLex-local-local.jar.md5
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+575dde1ae5f8f49cd58627112d5a4ff3
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+JLex-local-local.pom.sha1
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+1e8d2359a3da6c77c5dcd51437a5eab8
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+JLex-local-local.jar.sha1
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+ee7d0a357f1aaae7aea5ad07eb553743
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+JLex-local-local.pom
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+72ed6543dc61bf71d01ccd884af59e78
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+JLex-local-local.jar
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+893f025b06950a57cfe965de79cd1adc
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+has-props
+

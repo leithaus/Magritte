@@ -1,0 +1,32 @@
+<h1>Editing pipe_module</h1>
+
+<%= error_messages_for :pipe_module %>
+
+<% form_for(@pipe_module) do |f| %>
+  <p>
+    <b>Name</b><br />
+    <%= f.text_field :name %>
+  </p>
+
+  <p>
+    <b>Type</b><br />
+    <%= f.text_field :type %>
+  </p>
+
+  <p>
+    <b>Description</b><br />
+    <%= f.text_field :description %>
+  </p>
+
+  <p>
+    <b>Ui</b><br />
+    <%= f.text_area :ui %>
+  </p>
+
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @pipe_module %> |
+<%= link_to 'Back', pipe_modules_path %>

@@ -1,0 +1,89 @@
+8
+
+dir
+1453
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CAL/cbg/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+cbg-local.pom.md5
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+40f2ba88e66a3f0889ded6933f0a3b8a
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+cbg-local.jar.md5
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+5f3146427badd01e058bfc53a46242f5
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+cbg-local.pom.sha1
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+c6a72f955399feab96c7db2fcf0fc5d9
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+cbg-local.jar.sha1
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+811c17e9f305937a998286e94e2aa79a
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+cbg-local.pom
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+da2070b20588570ce8f6df051daf420a
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+cbg-local.jar
+file
+
+
+
+
+2008-07-08T21:37:34.000000Z
+57a46345da969de972f9e2ba8769cfbc
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+has-props
+

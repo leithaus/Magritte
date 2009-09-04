@@ -1,0 +1,34 @@
+<p>
+  <b>Name:</b>
+  <%=h @pipe_module.name %>
+</p>
+
+<p>
+  <b>Type:</b>
+  <%=h @pipe_module.type %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%=h @pipe_module.description %>
+</p>
+
+<p>
+  <b>Ui:</b>
+  <%=h @pipe_module.ui %>
+</p>
+
+<h2>Input Terminals</h2>
+
+<% @pipe_module.in_terminals.each do | in_terminal | %>
+	<%= render(:partial => '/terminals/show', :locals => {:terminal => in_terminal}) %>
+<% end -%>
+
+<h2>Output Terminals</h2>
+
+<% @pipe_module.out_terminals.each do | out_terminal | %>
+	<%= render(:partial => '/terminals/show', :locals => {:terminal => out_terminal}) %>
+<% end -%>
+
+<%= link_to 'Edit', edit_pipe_module_path(@pipe_module) %> |
+<%= link_to 'Back', pipe_modules_path %>

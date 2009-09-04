@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/commons-logging/commons-logging-api-1.1.1/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+commons-logging-api-1.1.1-local.pom.sha1
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+552fcd8034e976a1699cc5042509463d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+commons-logging-api-1.1.1-local.jar.sha1
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+4ec99126fdfa076fbd9601c8014203d8
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+commons-logging-api-1.1.1-local.pom
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+51071d21232862b1e556a470575a8a9d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+commons-logging-api-1.1.1-local.jar
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+4ec8e1d8171e578b3151e898311a8710
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+commons-logging-api-1.1.1-local.pom.md5
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+9a1d7a7825d85aff650f3106b2480b64
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+commons-logging-api-1.1.1-local.jar.md5
+file
+
+
+
+
+2008-08-04T16:42:21.000000Z
+cf8a7845fc39d182480488eab4de4129
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

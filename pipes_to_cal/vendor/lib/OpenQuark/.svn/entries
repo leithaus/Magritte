@@ -1,0 +1,40 @@
+8
+
+dir
+1455
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+CAL_Libraries_src
+dir
+
+Utilities_src
+dir
+
+Quark
+dir
+
+IO_Source_Generator_src
+dir
+
+OpenQuark
+dir
+
+Quark_Gems_src
+dir
+
+CAL_Runtime_src
+dir
+
+CAL_Platform_src
+dir
+

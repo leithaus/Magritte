@@ -1,0 +1,25 @@
+
+--This line, and those below, will be ignored--
+
+A    jlinalg/Jama-1.0.2
+A    jlinalg/Jama-1.0.2/maven-metadata.xml
+A    jlinalg/Jama-1.0.2/maven-metadata.xml.md5
+A    jlinalg/Jama-1.0.2/local
+A    jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.pom.sha1
+A    jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.jar.sha1
+A    jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.pom
+AM   jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.jar
+A    jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.pom.md5
+A    jlinalg/Jama-1.0.2/local/Jama-1.0.2-local.jar.md5
+A    jlinalg/Jama-1.0.2/maven-metadata.xml.sha1
+A    jlinalg/CoreJama-1.0.2
+A    jlinalg/CoreJama-1.0.2/maven-metadata.xml
+A    jlinalg/CoreJama-1.0.2/maven-metadata.xml.md5
+A    jlinalg/CoreJama-1.0.2/local
+A    jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.pom
+AM   jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.jar
+A    jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.pom.md5
+A    jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.jar.md5
+A    jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.pom.sha1
+A    jlinalg/CoreJama-1.0.2/local/CoreJama-1.0.2-local.jar.sha1
+A    jlinalg/CoreJama-1.0.2/maven-metadata.xml.sha1

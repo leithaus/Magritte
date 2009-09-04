@@ -1,0 +1,14 @@
+
+
+{"modules":[{"type":"CalUtilitiesMathe","id":"sw-4676","conf":{}},
+	    {"type":"output","id":"_OUTPUT","conf":{}},
+	    {"type":"CalUtilitiesMathpower","id":"sw-4683","conf":{}},
+	    {"type":"CalUtilitiesMathpi","id":"sw-4695","conf":{}},
+	    {"type":"CalUtilitiesDecimaltoString","id":"sw-4699","conf":{}},
+	    {"type":"CalCoreStringreverse","id":"sw-4706","conf":{}}],
+"wires":[{"id":"_w3","src":{"id":"_OUTPUT","moduleid":"sw-4676"},"tgt":{"id":"terminal-4684","moduleid":"sw-4683"}},
+         {"id":"_w9","src":{"id":"_OUTPUT","moduleid":"sw-4683"},"tgt":{"id":"decimal","moduleid":"sw-4699"}},
+	 {"id":"_w5","src":{"id":"_OUTPUT","moduleid":"sw-4695"},"tgt":{"id":"terminal-4688","moduleid":"sw-4683"}},
+	 {"id":"_w13","src":{"id":"_OUTPUT","moduleid":"sw-4699"},"tgt":{"id":"string","moduleid":"sw-4706"}},
+	 {"id":"_w15","src":{"id":"_OUTPUT","moduleid":"sw-4706"},"tgt":{"id":"_INPUT","moduleid":"_OUTPUT"}}]}
+ Done

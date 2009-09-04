@@ -1,0 +1,31 @@
+8
+
+dir
+1468
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/CAL
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T11:11:11.598263Z
+1468
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Cal
+dir
+
+GemCutterSaveModule.cal
+file
+1578
+
+
+
+2008-11-17T23:58:48.000000Z
+be9ad9f96071044d033b6298eaf3282c
+2008-12-05T11:43:44.098102Z
+1578
+lgm
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<definitions targetNamespace="http://example/" xmlns:tns="http://example/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import namespace="http://example/" schemaLocation="HelloWorldPortType_schema1.xsd"/>
+    </xsd:schema>
+  </types>
+  <message name="sayHelloWorldFrom">
+    <part name="parameters" element="tns:sayHelloWorldFrom"/>
+  </message>
+  <message name="sayHelloWorldFromResponse">
+    <part name="parameters" element="tns:sayHelloWorldFromResponse"/>
+  </message>
+  <portType name="HelloWorld">
+    <operation name="sayHelloWorldFrom">
+      <input message="tns:sayHelloWorldFrom"/>
+      <output message="tns:sayHelloWorldFromResponse"/>
+    </operation>
+  </portType>
+</definitions>
+

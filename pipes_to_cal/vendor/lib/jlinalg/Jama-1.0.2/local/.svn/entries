@@ -1,0 +1,89 @@
+8
+
+dir
+1489
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/Jama-1.0.2/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Jama-1.0.2-local.pom.sha1
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+cf65082d0816dc81a1b4ad974a8a8076
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+Jama-1.0.2-local.jar.sha1
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+07d8f7a88c358cbfc89d6b39e72e3d9e
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+Jama-1.0.2-local.pom
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+2f397676690877d03aa42286133b4760
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+Jama-1.0.2-local.jar
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+aa0af59a1b290c82073537fe45b12522
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+has-props
+
+Jama-1.0.2-local.pom.md5
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+92e903506938b339c252d4505ce5ed3a
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+
+Jama-1.0.2-local.jar.md5
+file
+
+
+
+
+2008-08-27T02:26:23.000000Z
+663fe62ef04d375b8c351a7aa75d95fe
+2008-09-04T19:23:37.387534Z
+1489
+lgm
+

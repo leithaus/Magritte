@@ -1,0 +1,46 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/src/main/java/com/biosimilarity/magritte
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+json.orig
+dir
+
+json
+dir
+
+Makefile.joe
+file
+
+
+
+
+2008-06-24T23:50:08.000000Z
+a32e1e487989d71a8f35a54d80d912a9
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+

@@ -1,0 +1,21 @@
+<h1>New input_terminal</h1>
+
+<%= error_messages_for :input_terminal %>
+
+<% form_for(@input_terminal) do |f| %>
+  <p>
+    <b>Pipe module</b><br />
+    <%= f.text_field :pipe_module_id %>
+  </p>
+
+  <p>
+    <b>Terminal</b><br />
+    <%= f.text_field :terminal_id %>
+  </p>
+
+  <p>
+    <%= f.submit "Create" %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', input_terminals_path %>

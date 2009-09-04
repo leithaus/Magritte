@@ -1,0 +1,89 @@
+8
+
+dir
+1467
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/asm/asm-all-3.0/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+asm-all-3.0-local.pom.sha1
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+4b6d92aee029260fad649e7532de1cc7
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+asm-all-3.0-local.jar.sha1
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+2b47044e7202c510e72d5ff34fa7b1fd
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+asm-all-3.0-local.pom
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+347da4b5ec521ef01ac1cbc45a61389d
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+asm-all-3.0-local.jar
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+306b3b636dee487a85697d8fa189d76e
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+has-props
+
+asm-all-3.0-local.pom.md5
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+9284f4888be5dd606797686a46e250e9
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+
+asm-all-3.0-local.jar.md5
+file
+
+
+
+
+2008-07-24T19:03:19.000000Z
+f3419ef9c9bd1a80aab732db2df7fc7a
+2008-07-24T19:11:34.300754Z
+1467
+lgm
+

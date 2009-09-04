@@ -1,0 +1,37 @@
+"{\"modules\":[{\"type\":\"output\",\"id\":\"_OUTPUT\",\"conf\":{}},{\"type\":\"CalUtilitiesMathpi\",\"id\":\"sw-4680\",\"conf\":{}}],\"wires\":[{\"id\":\"_w1\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4680\"},\"tgt\":{\"id\":\"_INPUT\",\"moduleid\":\"_OUTPUT\"}}]}"
+
+"{\"modules\":[{\"type\":\"CalUtilitiesMathe\",\"id\":\"sw-4676\",\"conf\":{}},{\"type\":\"output\",\"id\":\"_OUTPUT\",\"conf\":{}},{\"type\":\"CalUtilitiesMathpower\",\"id\":\"sw-4683\",\"conf\":{}},{\"type\":\"CalUtilitiesMathpi\",\"id\":\"sw-4695\",\"conf\":{}},{\"type\":\"CalUtilitiesDecimaltoString\",\"id\":\"sw-4699\",\"conf\":{}},{\"type\":\"CalCoreStringreverse\",\"id\":\"sw-4706\",\"conf\":{}}],\"wires\":[{\"id\":\"_w3\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4676\"},\"tgt\":{\"id\":\"terminal-4684\",\"moduleid\":\"sw-4683\"}},{\"id\":\"_w9\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4683\"},\"tgt\":{\"id\":\"decimal\",\"moduleid\":\"sw-4699\"}},{\"id\":\"_w5\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4695\"},\"tgt\":{\"id\":\"terminal-4688\",\"moduleid\":\"sw-4683\"}},{\"id\":\"_w13\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4699\"},\"tgt\":{\"id\":\"string\",\"moduleid\":\"sw-4706\"}},{\"id\":\"_w15\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4706\"},\"tgt\":{\"id\":\"_INPUT\",\"moduleid\":\"_OUTPUT\"}}]}"
+
+"{\"modules\":[{\"type\":\"Cal.Utilities.Math.pi\",\"id\":\"sw-4676\",\"conf\":{}},{\"type\":\"output\",\"id\":\"_OUTPUT\",\"conf\":{}}],\"wires\":[{\"id\":\"_w1\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-4676\"},\"tgt\":{\"id\":\"_INPUT\",\"moduleid\":\"_OUTPUT\"}}]}"
+
+"{\"modules\":[{\"type\":\"Cal.WS.Trampoline.calculatorWSService_4CALTrampoline_new\",\"id\":\"sw-5007\",\"conf\":{}},{\"type\":\"output\",\"id\":\"_OUTPUT\",\"conf\":{}}],\"wires\":[{\"id\":\"_w1\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-5007\"},\"tgt\":{\"id\":\"_INPUT\",\"moduleid\":\"_OUTPUT\"}}]}"
+
+"{\"modules\":[{\"type\":\"output\",\"id\":\"_OUTPUT\",\"conf\":{}},{\"type\":\"Cal.WS.Trampoline.calculatorWS_add\",\"id\":\"sw-5042\",\"conf\":{}},{\"type\":\"Cal.Utilities.Math.e\",\"id\":\"sw-5069\",\"conf\":{}},{\"type\":\"Cal.Utilities.Math.pi\",\"id\":\"sw-5073\",\"conf\":{}},{\"type\":\"Cal.WS.Trampoline.calculatorWSService_4CALTrampoline_new\",\"id\":\"sw-5077\",\"conf\":{}}],\"wires\":[{\"id\":\"_w21\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-5042\"},\"tgt\":{\"id\":\"_INPUT\",\"moduleid\":\"_OUTPUT\"}},{\"id\":\"_w29\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-5069\"},\"tgt\":{\"id\":\"jCalculatorWS\",\"moduleid\":\"sw-5042\"}},{\"id\":\"_w31\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-5073\"},\"tgt\":{\"id\":\"terminal-5050\",\"moduleid\":\"sw-5042\"}},{\"id\":\"_w33\",\"src\":{\"id\":\"_OUTPUT\",\"moduleid\":\"sw-5077\"},\"tgt\":{\"id\":\"terminal-5043\",\"moduleid\":\"sw-5042\"}}]}"
+
+{"ok":1,
+ "errors":{"modules":{},"pipe":null},
+ "preview":
+ {"_OUTPUT":
+  {"count":"0",
+   "item_count":"0",
+   "id":"_OUTPUT",
+   "duration":"6.2e-05",
+   "start":"1217588043",
+   "module":"Yahoo::RSS::Output",
+   "items":[]},
+  "sw-63":
+  {"prop":{"_OUTPUT":{"_type":"number","_count":"1"}},
+   "count":"1",
+   "id":"sw-63",
+   "duration":"0.000299",
+   "start":"1217588043",
+   "module":"Yahoo::RSS::SimpleMath",
+   "items":"32"},
+  "sw-56":
+  {"prop":{"_OUTPUT":{"_type":"number","_count":"1"}},
+   "count":"1",
+   "id":"sw-56",
+   "duration":"9.3e-05",
+   "start":"1217588043",
+   "module":"Yahoo::RSS::NumberInput","items":"2"}},
+ "stats":{"pua":{}}}

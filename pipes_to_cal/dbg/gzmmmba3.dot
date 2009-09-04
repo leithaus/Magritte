@@ -1,0 +1,19 @@
+digraph G {
+  Cal_Utilities_Math_pi_1229456446801 [label = "Cal_Utilities_Math_pi_1229456446801"];
+  Cal_Utilities_Math_e_1229456446802 [label = "Cal_Utilities_Math_e_1229456446802"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_1229456446802 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_1229456446802"];
+  Cal_Core_Prelude_toInt_1229456446803 [label = "Cal_Core_Prelude_toInt_1229456446803"];
+  Cal_Core_Prelude_toInt_1229456446803 [label = "Cal_Core_Prelude_toInt_1229456446803"];
+  Cal_Utilities_Math_round_1229456446803 [label = "Cal_Utilities_Math_round_1229456446803"];
+  Cal_Utilities_Math_round_1229456446803 [label = "Cal_Utilities_Math_round_1229456446804"];
+  output_1229456446804 [label = "output_1229456446804"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804 [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804"];
+  Cal_Utilities_Math_pi_1229456446801 -> Cal_Utilities_Math_round_1229456446803 [label = "3"];
+  Cal_Utilities_Math_e_1229456446802 -> Cal_Utilities_Math_round_1229456446803 [label = "6"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new_1229456446802 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804 [label = "9"];
+  Cal_Core_Prelude_toInt_1229456446803 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804 [label = "12"];
+  Cal_Core_Prelude_toInt_1229456446803 -> Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804 [label = "15"];
+  Cal_Utilities_Math_round_1229456446803 -> Cal_Core_Prelude_toInt_1229456446803 [label = "18"];
+  Cal_Utilities_Math_round_1229456446803 -> Cal_Core_Prelude_toInt_1229456446803 [label = "21"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_add_1229456446804 -> output_1229456446804 [label = "24"];
+}

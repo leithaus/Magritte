@@ -1,0 +1,7 @@
+
+--This line, and those below, will be ignored--
+
+M    magritte/PipesToCALBridge.scala
+M    magritte/GraphToExpr.scala
+M    magritte/ConcreteGraphTypes.scala
+M    magritte/GEMGraph.scala

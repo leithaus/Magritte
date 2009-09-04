@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/xerbla/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+xerbla-local.pom
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+9c179407d623f05a9e62dacba2aa45ce
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+xerbla-local.jar
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+0c4e5d46c22290894d131f801883cf50
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+xerbla-local.pom.md5
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+1c1833c18fc2368ec430da24eea5cad3
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+xerbla-local.jar.md5
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+939337db35d42231fc6c903603278692
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+xerbla-local.pom.sha1
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+5996edf8e4b8d1a13c73f9839201adec
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+xerbla-local.jar.sha1
+file
+
+
+
+
+2008-08-25T19:58:58.000000Z
+1c0ee4463fc50ab310c1f4391d741626
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

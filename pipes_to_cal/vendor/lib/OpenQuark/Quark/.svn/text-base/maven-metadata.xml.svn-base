@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>OpenQuark</groupId>
+  <artifactId>Quark</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+    </versions>
+    <lastUpdated>20080710013916</lastUpdated>
+  </versioning>
+</metadata>

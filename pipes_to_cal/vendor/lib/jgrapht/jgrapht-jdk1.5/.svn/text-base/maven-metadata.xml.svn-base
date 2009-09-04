@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>jgrapht</groupId>
+  <artifactId>jgrapht-jdk1.5</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+    </versions>
+    <lastUpdated>20080619000906</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,19 @@
+8
+
+dir
+1470
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/icu4j
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T20:15:07.540428Z
+1470
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+icu4j
+dir
+

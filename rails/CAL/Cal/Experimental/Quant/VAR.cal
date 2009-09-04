@@ -1,0 +1,66 @@
+/* -*- mode: Haskell;-*- 
+ * Filename:    VAR.cal 
+ * Authors:     lgm                                                    
+ * Creation:    Mon Aug  4 12:58:48 2008 
+ * Copyright:   Not supplied 
+ * Description: 
+ * ************************************************************************** */
+
+module Cal.Experimental.Quant.VAR;
+
+import Cal.Core.Prelude using
+    typeConstructor = Boolean, CalFunction, Double, Integer, Int, JObject, String;
+    typeClass = Inputable, Num, Outputable;
+    function =
+        field1, field2, input, isEmpty, makeCalFunction, output, seq, toDouble;
+    typeConstructor = Float;
+    function = ceiling, floor, toFloat;
+    ;
+import Cal.Collections.List using
+    function = map, take, foldLeftStrict, head, tail, zip4;
+    ;      
+import Cal.Graphics.Color using
+    typeConstructor = Color;
+    ;
+import Cal.IO.File using
+    typeConstructor = FileName;
+    ;
+
+/**
+ * Placeholder for an implementation of a vector autoregressive model
+ * 
+ * @arg p          how many.
+ * @arg d1         first vector.
+ * @arg d2         second vector.
+ * @arg d3         third vector.
+ * @arg d4         fourth vector.   
+ * @return         another vector.
+ */
+vectorAutoRegressiveModel :: Int -> [Double] -> [Double] -> [Double] -> [Double] -> [Double];
+public vectorAutoRegressiveModel p d1 d2 d3 d4 =
+    map (\t -> (case t of (x,y,z,w) -> (x+y+z+w);)) (take p (zip4 d1 d2 d3 d4));
+
+/**
+ * Placeholder for a timeseries
+ */
+timeseries1 :: [Double];
+public timeseries1 = 1.0 : timeseries1;
+
+/**
+ * Placeholder for a timeseries
+ */
+timeseries2 :: [Double];
+public timeseries2 = 2.0 : timeseries2;
+
+/**
+ * Placeholder for a timeseries
+ */
+timeseries3 :: [Double];
+public timeseries3 = 3.0 : timeseries3;
+
+/**
+ * Placeholder for a timeseries
+ */
+timeseries4 :: [Double];
+public timeseries4 = 4.0 : timeseries4;
+

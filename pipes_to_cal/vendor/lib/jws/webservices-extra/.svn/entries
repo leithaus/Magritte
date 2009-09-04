@@ -1,0 +1,55 @@
+8
+
+dir
+1492
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jws/webservices-extra
+http://svn.biosimilarity.com/src
+
+
+
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-09-09T19:25:27.000000Z
+68a4f6c2418feb7d0cee1fc39c815216
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-09-09T19:25:27.000000Z
+fcb4ca22c42d2a22ee46c1f433bd13bd
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-09-09T19:25:27.000000Z
+89839ba4e9e47932d50506c824f8afc7
+2008-09-09T20:30:54.939462Z
+1492
+lgm
+

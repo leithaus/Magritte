@@ -1,0 +1,55 @@
+8
+
+dir
+1812
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlex/JLex-local
+http://svn.biosimilarity.com/src
+
+
+
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+87540c19900d38c38c857c224e3e612c
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+a39cdef5ad1df9e871e290236eee1532
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2009-01-06T00:05:29.000000Z
+00938619033d9ff349e63e5eecfdf507
+2009-01-06T00:07:43.120780Z
+1812
+lgm
+

@@ -1,0 +1,43 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/cup/java-cup-11a
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+local
+dir
+
+maven-metadata-local.xml
+file
+
+
+
+
+2008-06-24T23:50:51.000000Z
+4b3b5f4f28bf2ff25400a6f89266fff1
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+

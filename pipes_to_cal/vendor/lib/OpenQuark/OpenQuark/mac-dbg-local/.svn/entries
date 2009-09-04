@@ -1,0 +1,89 @@
+8
+
+dir
+1473
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/OpenQuark/mac-dbg-local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+OpenQuark-mac-dbg-local.pom
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+37587ff70f412c903dec16a025702e0d
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+
+OpenQuark-mac-dbg-local.jar
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+82b520b07a07c2643ededc308f3e72a6
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+has-props
+
+OpenQuark-mac-dbg-local.pom.md5
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+2bb250f93c21507a91c7c52579e1958d
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+
+OpenQuark-mac-dbg-local.jar.md5
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+b70829e42e8b99acd8f73d9e8531d4f0
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+
+OpenQuark-mac-dbg-local.pom.sha1
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+a36bdcd711b66d33bfee0915212e8ddd
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+
+OpenQuark-mac-dbg-local.jar.sha1
+file
+
+
+
+
+2008-07-25T17:46:10.000000Z
+facdc9ac4eb95e2f872d2a6ba2535aa2
+2008-07-25T20:18:22.537349Z
+1473
+lgm
+

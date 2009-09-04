@@ -1,0 +1,89 @@
+8
+
+dir
+1553
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jxpath/commons-jxpath-1.3/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+commons-jxpath-1.3-local.pom.sha1
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+e0cd10906e7d3963c08f294052dec174
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+commons-jxpath-1.3-local.jar.sha1
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+b00897ab222a7bd69e71c8b0cd8115b5
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+commons-jxpath-1.3-local.pom
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+eeb9fdd3e694ba83eb8c13349c7bb80c
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+commons-jxpath-1.3-local.jar
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+61a9aa8ff43ba10853571d57f724bf88
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+has-props
+
+commons-jxpath-1.3-local.pom.md5
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+d64fe6fe43b3faf2d67c623e66d78dd9
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+commons-jxpath-1.3-local.jar.md5
+file
+
+
+
+
+2008-09-30T15:49:28.000000Z
+9023e2557445725b5f36c7b77d4b55ba
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+

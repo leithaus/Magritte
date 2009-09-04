@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/log4j/log4j/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+log4j-local.pom
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+249631aa651bb78d51de09385ac417c6
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+log4j-local.jar
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+56e4cf9fabcc73bcece4259add1e3588
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+log4j-local.pom.md5
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+e825fbdaa14e28a0cc8f15573ae20fe6
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+log4j-local.jar.md5
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+c5c86242fbb71e5a6c8c1fdb54c45a42
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+log4j-local.pom.sha1
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+219568ddfe9524ef10ed5a9ff1db3873
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+log4j-local.jar.sha1
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+ba1b207b50bac9aa494f7c955265dece
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

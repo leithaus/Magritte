@@ -1,0 +1,22 @@
+<h1>Listing input_terminals</h1>
+
+<table>
+  <tr>
+    <th>Pipe module</th>
+    <th>Terminal</th>
+  </tr>
+
+<% for input_terminal in @input_terminals %>
+  <tr>
+    <td><%=h input_terminal.pipe_module_id %></td>
+    <td><%=h input_terminal.terminal_id %></td>
+    <td><%= link_to 'Show', input_terminal %></td>
+    <td><%= link_to 'Edit', edit_input_terminal_path(input_terminal) %></td>
+    <td><%= link_to 'Destroy', input_terminal, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New input_terminal', new_input_terminal_path %>

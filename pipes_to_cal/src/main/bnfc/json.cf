@@ -1,0 +1,27 @@
+-- -*- mode: Haskell;-*- 
+-- Filename:    json.cf 
+-- Authors:     lgm                                                    
+-- Creation:    Fri May 30 00:40:45 2008 
+-- Copyright:   Not supplied 
+-- Description: 
+-- ------------------------------------------------------------------------
+
+JObject        . JSONObject     ::= "{" [JSONPair] "}"               ;
+JPair          . JSONPair       ::= String ":" JSONValue             ;
+JArray         . JSONArray      ::= "[" [JSONValue] "]"              ;
+
+JStr           . JSONValue      ::= String                           ;
+JNum           . JSONValue      ::= Double                           ;
+JObj           . JSONValue      ::= JSONObject                       ;
+JArr           . JSONValue      ::= JSONArray                        ;
+JTru           . JSONValue      ::= "true"                           ;
+JFal           . JSONValue      ::= "false"                          ;
+JNul           . JSONValue      ::= "null"                           ;
+
+[]             . [JSONPair]     ::=                                  ;
+(: [])         . [JSONPair]     ::= JSONPair                         ;
+(:)            . [JSONPair]     ::= JSONPair "," [JSONPair]          ;
+
+[]             . [JSONValue]    ::=                                  ;
+(: [])         . [JSONValue]    ::= JSONValue                        ;
+(:)            . [JSONValue]    ::= JSONValue "," [JSONValue]        ;

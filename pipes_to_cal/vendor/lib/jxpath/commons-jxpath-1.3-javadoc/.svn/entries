@@ -1,0 +1,55 @@
+8
+
+dir
+1553
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jxpath/commons-jxpath-1.3-javadoc
+http://svn.biosimilarity.com/src
+
+
+
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-09-30T15:49:25.000000Z
+e18bff6b8d4c8c76eaf54f20c2b04b6b
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-09-30T15:49:25.000000Z
+775684c8ea0e02faab6475f1976c8345
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-09-30T15:49:25.000000Z
+dd1327dadac62219a5062f3e8f835f57
+2008-10-06T23:38:45.785191Z
+1553
+lgm
+

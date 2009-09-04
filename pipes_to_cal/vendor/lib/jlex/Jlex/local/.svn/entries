@@ -1,0 +1,41 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlex/Jlex/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+JLex-local.jar
+file
+
+
+
+
+2008-06-24T23:50:10.000000Z
+893f025b06950a57cfe965de79cd1adc
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+has-props
+

@@ -1,0 +1,26 @@
+<h1>Listing pipe_modules</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Description</th>
+    <th>Ui</th>
+  </tr>
+
+<% for pipe_module in @pipe_modules %>
+  <tr>
+    <td><%=h pipe_module.name %></td>
+    <td><%=h pipe_module.type %></td>
+    <td><%=h pipe_module.description %></td>
+    <td><%=h pipe_module.ui %></td>
+    <td><%= link_to 'Show', pipe_module %></td>
+    <td><%= link_to 'Edit', edit_pipe_module_path(pipe_module) %></td>
+    <td><%= link_to 'Destroy', pipe_module, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New pipe_module', new_pipe_module_path %>

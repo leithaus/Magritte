@@ -1,0 +1,11 @@
+digraph G {
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new [label = "Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new"];
+  Cal_Utilities_Math_pi [label = "Cal_Utilities_Math_pi"];
+  Cal_Utilities_Math_e [label = "Cal_Utilities_Math_e"];
+  Cal_WS_Trampoline_calculatorWS_add [label = "Cal_WS_Trampoline_calculatorWS_add"];
+  output [label = "output"];
+  Cal_WS_Trampoline_calculatorWSService_4CALTrampoline_new -> Cal_WS_Trampoline_calculatorWS_add [label = "3"];
+  Cal_Utilities_Math_pi -> Cal_WS_Trampoline_calculatorWS_add [label = "6"];
+  Cal_Utilities_Math_e -> Cal_WS_Trampoline_calculatorWS_add [label = "9"];
+  Cal_WS_Trampoline_calculatorWS_add -> output [label = "12"];
+}

@@ -1,0 +1,89 @@
+8
+
+dir
+1455
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/Quark/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+Quark-local.pom.sha1
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+6b1d8fdb2784b0cd6914caf22902f721
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+Quark-local.jar.sha1
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+acf29481f19dd99fb7a1526ac29f1f2c
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+Quark-local.pom
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+0919afdbb09530e8a1656964b09756ea
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+Quark-local.jar
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+c9e648922c99ca9c1453efaf51f75554
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+has-props
+
+Quark-local.pom.md5
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+06f1ff91899d4bf930eb0fbacf4ecc92
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+
+Quark-local.jar.md5
+file
+
+
+
+
+2008-07-10T01:39:18.000000Z
+5cd65dbf7ef7660f14232e1329625da0
+2008-07-10T21:32:18.964639Z
+1455
+lgm
+

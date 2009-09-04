@@ -1,0 +1,55 @@
+8
+
+dir
+1453
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/CAL/calLibraries
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+d072bb5f51ba74c3f9e309567c21117d
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+a0197680d39292ccd46cb625149ccd38
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-07-08T21:37:29.000000Z
+0a5e277ade55668951eb0240edce4400
+2008-07-08T21:48:45.758692Z
+1453
+lgm
+

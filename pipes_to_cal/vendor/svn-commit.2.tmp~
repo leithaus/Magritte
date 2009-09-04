@@ -1,0 +1,15 @@
+
+--This line, and those below, will be ignored--
+
+A    lib/antlr
+A    lib/antlr/antlr
+A    lib/antlr/antlr/maven-metadata.xml
+A    lib/antlr/antlr/maven-metadata.xml.md5
+A    lib/antlr/antlr/local
+A    lib/antlr/antlr/local/antlr-local.pom
+AM   lib/antlr/antlr/local/antlr-local.jar
+A    lib/antlr/antlr/local/antlr-local.pom.md5
+A    lib/antlr/antlr/local/antlr-local.jar.md5
+A    lib/antlr/antlr/local/antlr-local.pom.sha1
+A    lib/antlr/antlr/local/antlr-local.jar.sha1
+A    lib/antlr/antlr/maven-metadata.xml.sha1

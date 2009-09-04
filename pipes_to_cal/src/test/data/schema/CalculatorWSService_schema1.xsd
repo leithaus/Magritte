@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://calculator.me.org/" xmlns:tns="http://calculator.me.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="ArithmeticException" type="tns:ArithmeticException"/>
+
+  <xs:element name="add" type="tns:add"/>
+
+  <xs:element name="addResponse" type="tns:addResponse"/>
+
+  <xs:element name="mult" type="tns:mult"/>
+
+  <xs:element name="multResponse" type="tns:multResponse"/>
+
+  <xs:complexType name="mult">
+    <xs:sequence>
+      <xs:element name="m" type="xs:int"/>
+      <xs:element name="n" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="multResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ArithmeticException">
+    <xs:sequence>
+      <xs:element name="message" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="add">
+    <xs:sequence>
+      <xs:element name="i" type="xs:int"/>
+      <xs:element name="j" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="addResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+

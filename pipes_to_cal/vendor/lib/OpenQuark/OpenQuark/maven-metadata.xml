@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>OpenQuark</groupId>
+  <artifactId>OpenQuark</artifactId>
+  <version>local</version>
+  <versioning>
+    <versions>
+      <version>local</version>
+      <version>mac-local</version>
+      <version>mac-dbg-local</version>
+    </versions>
+    <lastUpdated>20080725174608</lastUpdated>
+  </versioning>
+</metadata>

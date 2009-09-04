@@ -1,0 +1,2 @@
+module InputTerminalsHelper
+end

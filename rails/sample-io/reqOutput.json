@@ -1,0 +1,10 @@
+
+ JSON string
+{"modules":[{"type":"Cal.Utilities.Math.pi","id":"sw-4676","conf":{}},{"type":"output","id":"_OUTPUT","conf":{}}],"wires":[{"id":"_w1","src":{"id":"_OUTPUT","moduleid":"sw-4676"},"tgt":{"id":"_INPUT","moduleid":"_OUTPUT"}}]}
+Ok... something
+Ok... something else
+3.141592653589793
+ Done
+#<ActionController::CgiRequest:0xd56091>
+ Raw post
+_out=json&def=%7B%22modules%22%3A%5B%7B%22type%22%3A%22Cal.Utilities.Math.pi%22%2C%22id%22%3A%22sw-4676%22%2C%22conf%22%3A%7B%7D%7D%2C%7B%22type%22%3A%22output%22%2C%22id%22%3A%22_OUTPUT%22%2C%22conf%22%3A%7B%7D%7D%5D%2C%22wires%22%3A%5B%7B%22id%22%3A%22_w1%22%2C%22src%22%3A%7B%22id%22%3A%22_OUTPUT%22%2C%22moduleid%22%3A%22sw-4676%22%7D%2C%22tgt%22%3A%7B%22id%22%3A%22_INPUT%22%2C%22moduleid%22%3A%22_OUTPUT%22%7D%7D%5D%7D&rss=1&rnd=5940&.crumb=wAq8/Vuahll

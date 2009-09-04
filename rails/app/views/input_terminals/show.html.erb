@@ -1,0 +1,13 @@
+<p>
+  <b>Pipe module:</b>
+  <%=h @input_terminal.pipe_module_id %>
+</p>
+
+<p>
+  <b>Terminal:</b>
+  <%=h @input_terminal.terminal_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_input_terminal_path(@input_terminal) %> |
+<%= link_to 'Back', input_terminals_path %>

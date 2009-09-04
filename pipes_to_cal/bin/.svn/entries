@@ -1,0 +1,54 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/bin
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+deploy-jar.sh
+file
+
+
+
+
+2008-06-24T23:50:08.000000Z
+9e66d94145e9500a127e214d5e6012fe
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+has-props
+
+califate.sh
+file
+1566
+
+
+
+2008-10-28T18:56:48.000000Z
+d2c88a1a900d48cb60478873099977c6
+2008-10-28T19:02:17.078104Z
+1566
+lgm
+has-props
+

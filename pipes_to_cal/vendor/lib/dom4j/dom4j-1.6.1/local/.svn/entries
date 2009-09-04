@@ -1,0 +1,89 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/dom4j/dom4j-1.6.1/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+dom4j-1.6.1-local.pom
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+d7ac2f528b6df985ea335468375c52c3
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+dom4j-1.6.1-local.jar
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+4d8f51d3fe3900efc6e395be48030d6d
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+has-props
+
+dom4j-1.6.1-local.pom.md5
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+456108d049271a268af1005d6166c9ad
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+dom4j-1.6.1-local.jar.md5
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+f221a8b65200b7f20eb8d7a9fa7a8c55
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+dom4j-1.6.1-local.pom.sha1
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+687d053a10b9245ab7bd379c085229f3
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+dom4j-1.6.1-local.jar.sha1
+file
+
+
+
+
+2008-08-04T16:36:02.000000Z
+615e571b30bbffaa577369ecdabc38c0
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

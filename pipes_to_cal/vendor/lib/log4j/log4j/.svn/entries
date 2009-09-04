@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/log4j/log4j
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+ee49a7cc2c268d0fc975978cf532e9b4
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+5e3f5914897c9b1bb7c7ad6a55b8c1aa
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-01T05:40:26.000000Z
+5b1500007e703ccc05ede10fb0c5367c
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

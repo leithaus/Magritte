@@ -1,0 +1,55 @@
+8
+
+dir
+1486
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/jlinalg/lapack_simple
+http://svn.biosimilarity.com/src
+
+
+
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+maven-metadata.xml
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+d205e77703f54133d09c3d54418069ba
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+maven-metadata.xml.md5
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+047073e53b19269bcda10aa3b055572b
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+
+local
+dir
+
+maven-metadata.xml.sha1
+file
+
+
+
+
+2008-08-25T19:58:57.000000Z
+8bfccdef1f5141b74fbebb7735b13c36
+2008-08-25T20:24:26.825391Z
+1486
+lgm
+

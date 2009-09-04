@@ -1,0 +1,70 @@
+8
+
+dir
+1437
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/src/main/java
+http://svn.biosimilarity.com/src
+
+
+
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6b30a30-2216-0410-96b7-d27828f5fae3
+
+jsontools-core-1.5-bundle.jar
+file
+
+
+
+
+2008-06-24T23:50:08.000000Z
+89d2bdf0079592c181c9bb7aa291ee8e
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+has-props
+
+json-dist-0.10.zip
+file
+
+
+
+
+2008-06-24T23:50:08.000000Z
+104c50a8cd831a2219724c22663bfdca
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+has-props
+
+json.zip
+file
+
+
+
+
+2008-06-24T23:50:08.000000Z
+cb7b23e845cbac706f017e6c52b4c770
+2008-06-20T11:47:10.134970Z
+1433
+lgm
+has-props
+
+com
+dir
+

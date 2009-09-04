@@ -1,0 +1,89 @@
+8
+
+dir
+1469
+http://svn.biosimilarity.com/src/open/pipe-cutter/pipes_to_cal/vendor/lib/OpenQuark/IO_Source_Generator_src/local
+http://svn.biosimilarity.com/src
+
+
+
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+
+svn:special svn:externals svn:needs-lock
+
+IO_Source_Generator_src-local.pom.sha1
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+856b711788534c30793bee9e7e216ae8
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+IO_Source_Generator_src-local.jar.sha1
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+d1b255cd9954d1ffe8520556a52d33a7
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+IO_Source_Generator_src-local.pom
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+920829d2bb422ba2ad8d45c425c1abdd
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+IO_Source_Generator_src-local.jar
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+d5b752a2bc170f0879af29542d07040a
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+has-props
+
+IO_Source_Generator_src-local.pom.md5
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+26072396c769984e2fe370a20daaeb35
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
+IO_Source_Generator_src-local.jar.md5
+file
+
+
+
+
+2008-07-25T19:12:34.000000Z
+60a557d0572077b2c23744170626c4ae
+2008-07-25T19:23:34.998744Z
+1469
+lgm
+
